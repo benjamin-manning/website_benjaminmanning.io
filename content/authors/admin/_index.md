@@ -71,6 +71,4 @@ user_groups:
 
 # About me
 
-ADD ABOUT ME
-
-Outside of this research, you might find me [in the great outdoors](https://www.strava.com/athletes/49210500), [teaching hands-on science](https://sixthdegreenorth.wordpress.com/), [cooking with others](https://photos.app.goo.gl/NVNG1qLAGS6ktRUz7), or [flying a drone](https://youtu.be/5qeXf_Xubxs).
+Outside of my work, you can find me hiking, biking, playing soccer, reading/napping, aggressively playing catan, noodoling on the guitar, or best of all - hanging with some friends.
