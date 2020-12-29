@@ -43,15 +43,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/joshimmel
+- icon: linkedin-in
+  icon_pack: fas
+  link:https://www.linkedin.com/in/benjamin-manning-ab2735b2/
 # - icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/joshimmel
+  link: https://github.com/benjamin-manning
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/Himmelstein_CV.pdf` and uncomment the lines below.
 - icon: cv
