@@ -68,6 +68,8 @@ user_groups:
 
 ---
 
+Add biography here in author/index.md
+
 ## About me
 
 Outside of my work, you can find me hiking, biking, playing soccer, aggressively playing Settlers of Catan, reading and subsequently napping, noodling on the guitar, Traveling in random places, or simply spending time with friends.
