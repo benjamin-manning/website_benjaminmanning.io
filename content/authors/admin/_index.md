@@ -18,12 +18,12 @@ organizations:
   url: https://www.hks.harvard.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include saltmarsh and barrier island geomorphology, change detection via remote sensing, and drone imagery collection techniques.
+# bio: My research interests include saltmarsh and barrier island geomorphology, change detection via remote sensing, and drone imagery collection techniques.
 
 interests:
 - Decision Analysis
-- Behavioral Decision Making
 - Data Science & Public Policy
+- Behavioral Decision Making
 
 
 education:
@@ -64,11 +64,10 @@ email: benjamin.scott.manning@gmail.com
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- joshua
 - researcher
 
 ---
 
 ## About me
 
-Outside of my work, you can find me hiking, biking, playing soccer, reading and subsequently napping, aggressively playing Settlers of Catan, noodling on the guitar, or simply spending time with friends.
+Outside of my work, you can find me hiking, biking, playing soccer, aggressively playing Settlers of Catan, reading and subsequently napping, noodling on the guitar, Traveling in random places, or simply spending time with friends.
