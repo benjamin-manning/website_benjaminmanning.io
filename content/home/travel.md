@@ -4,6 +4,7 @@ summary: Visual and List of all the countries I've been fortunate enough to live
 tags:
 - Travel
 date: "2019-08-04T00:00:00Z"
+weight = 100
 
 # Optional external URL for project (replaces project detail page).
 # external_link: https://joshuahimmelstein.users.earthengine.app/view/the-island
