@@ -69,6 +69,6 @@ user_groups:
 
 ---
 
-# About me
+## About me
 
 Outside of my work, you can find me hiking, biking, playing soccer, reading/napping, aggressively playing Settlers of Catan, noodoling on the guitar, or best of all - hanging with some friends.
