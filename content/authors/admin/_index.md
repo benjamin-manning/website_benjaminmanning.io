@@ -53,10 +53,10 @@ social:
   icon_pack: fab
   link: https://github.com/benjamin-manning
 # Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/Himmelstein_CV.pdf` and uncomment the lines below.
+# To enable, copy your resume/CV to `static/files/Benjamin_Manning_Resumé.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/Himmelstein_CV_2020-06-28.pdf
+  link: files/Benjamin_Manning_Resumé.pdf
   
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: joshua.himmelstein@gmail.com
