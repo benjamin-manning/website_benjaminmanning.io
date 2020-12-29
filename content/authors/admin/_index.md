@@ -44,7 +44,7 @@ social:
   icon_pack: fas
   link: /#contact
 - icon: linkedin
-  icon_pack: fas
+  icon_pack: fab
   link: https://www.linkedin.com/in/benjamin-manning-ab2735b2/
 # - icon: google-scholar
 #  icon_pack: ai
