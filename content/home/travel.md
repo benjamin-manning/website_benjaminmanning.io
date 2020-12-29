@@ -9,7 +9,7 @@ weight = 100
 # Optional external URL for project (replaces project detail page).
 # external_link: https://joshuahimmelstein.users.earthengine.app/view/the-island
 
-image: "static/img/countries.png"
+image:
   caption:
   focal_point: Smart
 ---
