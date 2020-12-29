@@ -43,7 +43,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
-- icon: linkedin-in
+- icon: linkedin
   icon_pack: fas
   link: https://www.linkedin.com/in/benjamin-manning-ab2735b2/
 # - icon: google-scholar
