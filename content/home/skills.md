@@ -15,9 +15,9 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "brain"
+  icon = "search"
   icon_pack = "fas"
-  name = "Decision Science"
+  name = "Research"
   # description = "10%"
   
   [[feature]]
