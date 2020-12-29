@@ -29,10 +29,4 @@ feature:
   icon_pack: fas
   name: Python
 
-- icon: ":smile:"
-  icon_pack: "emoji"
-  name: "Emojiness"
-  description: "100%"  
-
-
 
