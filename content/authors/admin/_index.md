@@ -14,7 +14,7 @@ role: Master of Public Policy Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: Harvard Kennedy Schools
+- name: Harvard Kennedy School
   url: https://www.hks.harvard.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -31,7 +31,7 @@ education:
   - course: MPP Candidate
     institution: Harvard Kennedy School
     year: 2019 - 2021
-  - course: Bachelor of Arts in Applied Mathematics
+  - course: BA in Applied Mathematics
     institution: Washington University in St. Louis
     year: 2013 - 2017
     
