@@ -10,7 +10,7 @@ headless: true
 weight: 70
 
 # Section title
-title: Countries I have Traveled to
+title: Countries Visited
 
 # Section subtitle
 subtitle:
@@ -25,4 +25,8 @@ design:
   # text_color_light: true
 ---
 
-Add any content to the body of the section here.
+image: 
+  caption:
+  focal_point: Smart
+---
+![Countries](https://github.com/benjamin-manning/starter-academic/blob/master/static/img/countries.png)
