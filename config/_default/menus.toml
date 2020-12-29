@@ -23,7 +23,7 @@
   url = "#contact"
   weight = 60
   
- [main]]
+[[main]]
   name = "CV"
   url = "#CV"
   weight = 80
