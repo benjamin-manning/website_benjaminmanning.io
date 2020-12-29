@@ -56,7 +56,7 @@ social:
 # To enable, copy your resume/CV to `static/files/Benjamin_Manning_Resumé.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: static/files/Benjamin_Manning_Resumé.pdf
+  link: files/Benjamin_Manning_Resumé.pdf
   
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: joshua.himmelstein@gmail.com
@@ -71,4 +71,4 @@ user_groups:
 
 # About me
 
-Outside of my work, you can find me hiking, biking, playing soccer, reading/napping, aggressively playing catan, noodoling on the guitar, or best of all - hanging with some friends.
+Outside of my work, you can find me hiking, biking, playing soccer, reading/napping, aggressively playing Settlers of Catan, noodoling on the guitar, or best of all - hanging with some friends.
