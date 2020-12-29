@@ -28,7 +28,7 @@ title: Countries Visited
   # background:
   #  color: 'navy'
   # text_color_light: true
-#---
+# ---
 
-#![Countries](https://github.com/benjamin-manning/starter-academic/blob/master/static/img/countries.png)
+# ![Countries](https://github.com/benjamin-manning/starter-academic/blob/master/static/img/countries.png)
 
