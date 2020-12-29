@@ -26,7 +26,4 @@ design:
 ---
 
 image: 
-  caption:
-  focal_point: Smart
----
 ![Countries](https://github.com/benjamin-manning/starter-academic/blob/master/static/img/countries.png)
