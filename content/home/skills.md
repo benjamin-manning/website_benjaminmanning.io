@@ -29,7 +29,7 @@ subtitle = ""
 [[feature]]
   icon = "chart-bar"
   icon_pack = "far"
-  name = "Data Science"
+  name = "Data Analysis"
  # description = "90%" 
  
  [[feature]]
