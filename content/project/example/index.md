@@ -1,6 +1,6 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Automatic Differentiation Package
+summary: Orginially constructed software package which calculates the derivatives and roots of all fuctions for n-dimensional equations and vector-valued funtions.
 tags:
 - Completed
 date: "2020-12-27T00:00:00Z"
