@@ -12,18 +12,23 @@ weight: 70
 # Section title
 title: Countries Visited
 
-# Section subtitle
-subtitle:
+- label: "Featured Image"
+  name: "thumbnail"
+  widget: "image"
+  default: "img/countries.png"
+  media_library:
+    config:
+      multiple: true
 
 # Section design
-design:
+# design:
   # Use a 1-column layout
-  columns: "1"
+ # columns: "1"
   # Use a dark navy background with light text.
   # background:
   #  color: 'navy'
   # text_color_light: true
----
+#---
 
-image: 
-![Countries](https://github.com/benjamin-manning/starter-academic/blob/master/static/img/countries.png)
+#![Countries](https://github.com/benjamin-manning/starter-academic/blob/master/static/img/countries.png)
+
