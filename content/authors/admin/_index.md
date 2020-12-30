@@ -69,7 +69,7 @@ user_groups:
 ---
 ### **Professional**
 
-I love kids - Diddler dan, 2020
+I love everyone
 ### **Personal**
 
 Outside of my work, you can find me hiking, biking, playing soccer, aggressively playing Settlers of Catan, reading and subsequently napping, noodling on the guitar, traveling in random places, or simply spending time with friends.
