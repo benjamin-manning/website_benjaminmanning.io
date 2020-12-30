@@ -19,32 +19,27 @@ subtitle = ""
   icon_pack = "fas"
   name = "Research"
   # description = "10%"
-  
-  [[feature]]
+[[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  # description = "100%" 
-
+  # description = "100%"
 [[feature]]
   icon = "chart-bar"
   icon_pack = "far"
   name = "Data Analysis"
- # description = "90%" 
- 
- [[feature]]
+ # description = "90%"  
+[[feature]]
   icon = "edit"
   icon_pack = "far"
   name = "Writing"
- # description = "90%" 
-  
+ # description = "90%"  
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
   # description = "10%"
-  
-  [[feature]]
+[[feature]]
   icon = "chalkboard-teacher"
   icon_pack = "fas"
   name = "Teaching"
