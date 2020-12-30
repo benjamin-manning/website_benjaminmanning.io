@@ -1,5 +1,5 @@
 ---
-title: U.S. Department of The Interior Employment Statistics
+title: U.S. Department of The Interior Historical Employment Analysis
 summary: Statistical analysis on employment records of the United States Department of the Interior from 1849 - 1959 assessing trends in salary, gender, and location
 tags:
 - In Progress
