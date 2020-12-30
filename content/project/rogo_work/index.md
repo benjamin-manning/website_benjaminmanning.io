@@ -3,7 +3,7 @@ title: U.S. Department of The Interior Employment Statistics
 summary: Statistical analysis on employment records of the United States Department of the Interior from 1849 - 1959 assessing trends in salary, gender, and location.
 tags:
 - In Progress
-date: "2019-02-27T00:00:00Z"
+date: "2020-05-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link:
