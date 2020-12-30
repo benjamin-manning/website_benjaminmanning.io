@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-  - course: Master of Public Policy Candidate
+  - course: Master of Public Policy
     institution: Harvard Kennedy School
     year: 2019 - 2021
   - course: Bachelor of Arts in Applied Mathematics
