@@ -69,8 +69,8 @@ user_groups:
 ---
 ### **Professional**
 
-I am a master's student at the Harvard Kennedy School focusing on the intersections decision making, data science, and leadership. I have done research in management and political science at both Dartmouth College and Harvard, with additional experience teaching and working in quantitative finance. Following the completition of my master's program, I plan to pursue a PhD focusing on human behavior and decision making. Particularly, I want to do research using data to analyze bias and judegemnt under uncertainty. I am currently looking for full-time employment beginning May 2021.
-y 
+I am a master's student at the Harvard Kennedy School focusing on the intersections of decision making, data science, and leadership. I have done research in management and political science at both Dartmouth College and Harvard, with additional experience teaching and working in quantitative finance. Following the completition of my master's program, I plan to pursue a PhD focusing on human behavior and decision making. Particularly, I want to do research using data to analyze bias and judegemnt under uncertainty. I am currently looking for full-time employment beginning May 2021.
+ 
 ### **Personal**
 
 Outside of my work, you can find me hiking, biking, playing soccer, aggressively playing Settlers of Catan, reading and subsequently napping, noodling on the guitar, traveling to random places, or simply spending time with friends.
