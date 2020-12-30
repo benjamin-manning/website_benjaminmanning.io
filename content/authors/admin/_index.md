@@ -67,7 +67,9 @@ user_groups:
 - researcher
 
 ---
-I think Ian is probably gay - Karen Manning (2012)
+### **Professional**
+
+I love kids - Diddler dan, 2020
 ### **Personal**
 
 Outside of my work, you can find me hiking, biking, playing soccer, aggressively playing Settlers of Catan, reading and subsequently napping, noodling on the guitar, traveling in random places, or simply spending time with friends.
