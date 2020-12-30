@@ -67,8 +67,6 @@ user_groups:
 - researcher
 
 ---
-
-Add biography here in author/index.md
 YOU RUINED MY BIKE SHOES - YOU'RE DEAD TO MEEEEEEEEEEE
 
 ## Personal
