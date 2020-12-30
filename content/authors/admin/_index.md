@@ -73,4 +73,4 @@ I am a master's student at the Harvard Kennedy School focusing on the intersecti
  
 ### **Personal**
 
-Outside of my work, you can find me hiking, biking, playing soccer, aggressively playing Settlers of Catan, reading and subsequently napping, noodling on the guitar, traveling to random places, or simply spending time with friends.
+Outside of my work you can find me: hiking in New Hampshire, cycling, playing soccer, reading and subsequently napping, aggressively playing Settlers of Catan, noodling on the guitar, traveling to random places, or simply spending time with friends.
