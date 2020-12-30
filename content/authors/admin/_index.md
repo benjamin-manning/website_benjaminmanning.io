@@ -67,8 +67,7 @@ user_groups:
 - researcher
 
 ---
-YOU RUINED MY BIKE SHOES - YOU'RE DEAD TO MEEEEEEEEEEE
-
+I think Ian is probably gay - Karen Manning (2012)
 ## Personal
 
-Outside of my work, you can find me hiking, biking, playing soccer, aggressively playing Settlers of Catan, reading and subsequently napping, noodling on the guitar, Traveling in random places, or simply spending time with friends.
+Outside of my work, you can find me hiking, biking, playing soccer, aggressively playing Settlers of Catan, reading and subsequently napping, noodling on the guitar, traveling in random places, or simply spending time with friends.
