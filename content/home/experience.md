@@ -20,10 +20,18 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Research Associate"
   company = "Harvard University"
-  company_url = "http://rodriguez.web.unc.edu/"
+  #company_url = "http://rodriguez.web.unc.edu/"
   location = "Cambridge, MA"
   date_start = "2020-05-22"
   date_end = ""
   description = """Working with Professor Jon Rogowski in the Department of Government"""
+[[experience]]
+  title = "Research Associate & Producer"
+  company = "Dartmouth College"
+  #company_url = "http://rodriguez.web.unc.edu/"
+  location = "Hanover, NH"
+  date_start = "2018-10-22"
+  date_end = "2019-09-22"
+  description = """Working with Professor Sydney Finkelstein at the Tuck School of Business"""
 
 +++
