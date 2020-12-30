@@ -1,9 +1,9 @@
 ---
 title: Automatic Differentiation Package
-summary: Orginially constructed software package which calculates the derivatives and roots of all fuctions for n-dimensional equations and vector-valued funtions.
+summary: Orginially constructed software package which calculates the derivatives and roots of all fuctions for n-dimensional equations and vector-valued funtions
 tags:
 - Completed
-date: "2020-12-27T00:00:00Z"
+date: "2020-12-12T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: https://aad.fer.me/
