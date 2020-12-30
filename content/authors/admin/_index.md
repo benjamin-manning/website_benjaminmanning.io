@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Master of Public Policy Candidate
+role: Graduate Student
 
 # Organizations/Affiliations
 organizations:
@@ -28,10 +28,10 @@ interests:
 
 education:
   courses:
-  - course: MPP Candidate
+  - course: Master of Public Policy Candidate
     institution: Harvard Kennedy School
     year: 2019 - 2021
-  - course: BA in Applied Mathematics
+  - course: Bachelor of Arts in Applied Mathematics
     institution: Washington University in St. Louis
     year: 2013 - 2017
     
