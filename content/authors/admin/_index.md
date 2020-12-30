@@ -20,7 +20,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include saltmarsh and barrier island geomorphology, change detection via remote sensing, and drone imagery collection techniques.
 
-research interests:
+interests:
 - Decision Analysis
 - Data Science & Public Policy
 - Behavioral Decision Making
