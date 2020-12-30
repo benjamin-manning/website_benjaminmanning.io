@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Cambridge, MA"
   date_start = "2019-09-01"
   date_end = ""
-  description = """ Empirical Methods II with professor Teddy Svoronos - Spring 2021, Markets & Market Failure with professor Christopher Avery - Fall 2020, Data Science For Politics with professor Benjamin Schneer - Spring 2020"""
+  description = """ Empirical Methods II with professor Teddy Svoronos - Spring 2021 \n Markets & Market Failure with professor Christopher Avery - Fall 2020 \n Data Science For Politics with professor Benjamin Schneer - Spring 2020"""
 [[experience]]
   title = "Teacher"
   company = "Council on International Education Exchange"
