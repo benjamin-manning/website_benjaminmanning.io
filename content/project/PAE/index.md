@@ -1,6 +1,6 @@
 ---
 title: Interactive Voice Response System for Low-Literate Ethiopian Farmers
-summary: Working with Precision Agriculture for Development and the Ethiopian Government to improve crop yields for farmers in rural areas with minimal literacy using interactive voice response systems and A/B testing.
+summary: Working with Precision Agriculture for Development and the Ethiopian Government to improve crop yields for farmers in rural areas with minimal literacy using interactive voice response systems and A/B testing
 tags:
 - In Progress
 date: "2020-12-27T00:00:00Z"
