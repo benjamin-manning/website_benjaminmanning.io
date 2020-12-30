@@ -34,9 +34,6 @@ education:
   - course: Bachelor of Arts in Applied Mathematics
     institution: Washington University in St. Louis
     year: 2013 - 2017
-  - course: Abroad Coursework in Entrepreneurship 
-    institution: IDC Herzliya
-    year: 2014
     
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
