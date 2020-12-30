@@ -1,8 +1,6 @@
 ---
 title: The Sydcast podcast
-summary: Professor Sydney Finkelstein of Dartmouth College talks to entrepreneurs, community leaders, professional athletes, politicians, academics, authors, musicians, and many more about who they are and how they got there
-
-Produced all working parts of the podcast including marketing, creative content, guest acquisition and preparation, technical recording, audio editing, and advertising, which culminated in over 20,000 episode downloads
+summary: Produced all working parts of the podcast including marketing, creative content, guest acquisition and preparation, technical recording, audio editing, and advertising, which culminated in over 20,000 episode downloads
 
 tags:
 - Completed
