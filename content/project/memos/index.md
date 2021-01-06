@@ -1,12 +1,12 @@
 ---
-title: Automatic Differentiation Package
-summary: These policy memos address four distinct topics including: assisting the National Parks Service in minimi
+title: Police Encounters & Casualties	
+summary: Statistical inference and prediction project assessing patterns of fatal police violence across police departments in the United States	
 tags:
-- Completed
-date: "2020-12-12T00:00:00Z"
+- Completed	
+date: "2020-2-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://aad.fer.me/
+external_link: https://github.com/benjamin-manning/starter-academic/tree/master/static/files/memos	
 
 image:
   caption: Photo by rawpixel on Unsplash
