@@ -1,5 +1,5 @@
 ---
-title: Police Encounters & Casualties	
+title: Public Policy Memos on Topics of National and Global Importance	
 summary: Statistical inference and prediction project assessing patterns of fatal police violence across police departments in the United States	
 tags:
 - Completed	
