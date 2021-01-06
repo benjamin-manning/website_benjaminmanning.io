@@ -1,12 +1,12 @@
 ---
-title: Memos
-summary: asdf
+title: Public Policy Memos Written on a Variety of Pressing American and International Issues
+summary: These policy memos address four distinct topics including: assisting the National Parks Service in minimizing forest fires in the midsts of global warming, presenting the United States with strategies to rejoin the Iran Nuclear Deal, addressing COVID-19 in the early stages of the pandemic in Africa and Latin America from the perspective of the World Health Organization, and helping the state of Ohio address food insecurity.
 tags:
-- In Progress
+- Completed
 date: "2020-05-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link:
+external_link: https://github.com/benjamin-manning/starter-academic/tree/master/static/files/memos
 
 image:
   caption: Photo by rawpixel on Unsplash
@@ -14,8 +14,7 @@ image:
 
 links:
 url_code: ""
-url_pdf: "files/NPS_memo.pdf"
-url_pdf: "files/cal_fresh_memo.pdf"
+url_pdf: ""
 url_slides: ""
 url_video: ""
 
