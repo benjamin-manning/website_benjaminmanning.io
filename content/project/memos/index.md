@@ -1,6 +1,6 @@
 ---
 title: Public Policy Memos on Topics of National and Global Importance	
-summary: Statistical inference and prediction project assessing patterns of fatal police violence across police departments in the United States	
+summary: Topics include: The National Parks Service minimizing forest fires, Ohio dealing with food insecurity, the WHO coping with COVID-19 in Africa and Latin America
 tags:
 - Completed	
 date: "2020-2-27T00:00:00Z"
