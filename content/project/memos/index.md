@@ -3,7 +3,7 @@ title: Public Policy Memos Written on a Variety of Pressing American and Interna
 summary: These policy memos address four distinct topics including: assisting the National Parks Service in minimizing forest fires in the midsts of global warming, presenting the United States with strategies to rejoin the Iran Nuclear Deal, addressing COVID-19 in the early stages of the pandemic in Africa and Latin America from the perspective of the World Health Organization, and helping the state of Ohio address food insecurity.
 tags:
 - Completed
-date: "2020-05-27T00:00:00Z"
+date: "2020-05-12T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: https://github.com/benjamin-manning/starter-academic/tree/master/static/files/memos
