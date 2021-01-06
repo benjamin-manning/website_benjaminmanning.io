@@ -15,6 +15,7 @@ image:
 links:
 url_code: ""
 url_pdf: "files/NPS_memo.pdf"
+url_pdf: "files/cal_fresh_memo.pdf"
 url_slides: ""
 url_video: ""
 
