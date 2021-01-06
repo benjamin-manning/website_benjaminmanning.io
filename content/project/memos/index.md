@@ -1,6 +1,6 @@
 ---
 title: Automatic Differentiation Package
-summary: These policy memos address four distinct topics including: assisting the National Parks Service in minimizing forest fires in the midsts of global warming, presenting the United States with strategies to rejoin the Iran Nuclear Deal, addressing COVID-19 in the early stages of the pandemic in Africa and Latin America from the perspective of the World Health Organization, and helping the state of Ohio address food insecurity
+summary: These policy memos address four distinct topics including: assisting the National Parks Service in minimi
 tags:
 - Completed
 date: "2020-12-12T00:00:00Z"
