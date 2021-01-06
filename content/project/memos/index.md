@@ -1,6 +1,6 @@
 ---
 title: Public Policy Memos on Topics of National and Global Importance	
-summary: Topics include- The National Parks Service minimizing forest fires, Ohio dealing with food insecurity, the WHO coping with COVID-19 in Africa and Latin America
+summary: These policy memos address four distinct topics including - assisting the National Parks Service in minimizing forest fires in the midsts of global warming, presenting the United States with strategies to rejoin the Iran Nuclear Deal, addressing COVID-19 in the early stages of the pandemic in Africa and Latin America from the perspective of the World Health Organization, and helping the state of Ohio address food insecurity.
 tags:
 - Completed	
 date: "2020-2-27T00:00:00Z"
