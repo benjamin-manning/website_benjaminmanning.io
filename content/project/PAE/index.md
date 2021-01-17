@@ -1,6 +1,6 @@
 ---
 title: Interactive Voice Response System for Low-Literate African Farmers
-summary: Working with Precision Agriculture for Development optimizing interactive voice response systems to help low-literate Ethiopian farmers improve livestock and crop yields through randomized controlled trials - project is currently proprietary, please email me for more information
+summary: Working with Precision Agriculture for Development optimizing interactive voice response systems to help low-literate Ethiopian farmers improve livestock and crop yields through randomized controlled trials - project is currently proprietary - please email me for more information
 
 tags:
 - In Progress
