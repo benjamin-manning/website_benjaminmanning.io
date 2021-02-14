@@ -69,7 +69,7 @@ user_groups:
 ---
 ### **Professional**
 
-I am a master's student at the Harvard Kennedy School focusing on the intersections of decision making, data science, and leadership. I have done research in management and political science at both Dartmouth College and Harvard, with additional experience teaching and working in quantitative finance. Following the completion of my master's program, I plan to pursue a PhD focusing on human behavior and decision making. Particularly, I want to do research using data to analyze cooperation, bias, and judgment under uncertainty. I am currently looking for full-time employment beginning May 2021.
+I am a master's student at the Harvard Kennedy School focusing on the intersections of decision making, data science, and leadership. I have done research in management and political science at both Dartmouth College and Harvard, with additional experience teaching and working in quantitative finance.Following the completion of my master's program, I plan to pursue a PhD focusing on behavioral decision making or behavioral economics. Particularly, I want to do research using data to analyze cooperation, bias, and judgment under uncertainty. I am currently looking for full-time employment beginning May 2021.
  
 ### **Personal**
 
