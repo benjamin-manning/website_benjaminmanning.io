@@ -1,13 +1,13 @@
 ---
 title: Interactive Voice Response System for Low-Literate African Farmers
-summary: Working with Precision Agriculture for Development optimizing interactive voice response systems to help low-literate Ethiopian farmers improve livestock and crop yields through randomized controlled trials - project is currently proprietary - please email me for more information
+summary: Working with Precision Agriculture for Development optimizing interactive voice response systems to help low-literate Ethiopian farmers improve crop yields through operations analysis and machine learning
 
 tags:
 - In Progress
 date: "2020-12-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link:
+external_link: https://github.com/benjamin-manning/starter-academic/blob/master/static/files/Interactive%20Voice%20Response%20Systems%20for%20Low-Literate%20Farmers.pdf
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
