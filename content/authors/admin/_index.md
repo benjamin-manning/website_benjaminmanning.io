@@ -18,10 +18,10 @@ organizations:
   url: https://www.hks.harvard.edu/
 
 # Short bio (displayed in user profile at end of posts)
-# bio: My research interests include saltmarsh and barrier island geomorphology, change detection via remote sensing, and drone imagery collection techniques.
+# bio: 
 
 interests:
-- Decision Analysis
+- Economic Development
 - Data Science & Public Policy
 - Behavioral Decision Making
 
@@ -69,8 +69,8 @@ user_groups:
 ---
 ### **Professional**
 
-I am a master's student at the Harvard Kennedy School focusing on the intersections of decision making, data science, and economics. I have done research in management and political science at both Dartmouth College and Harvard, with additional experience teaching all levels of math and statistics (from elementary school to graduate level courses) and working in quantitative finance. Following the completion of my master's program, I plan to apply to doctoral programs in the quantitative social sciences in a few years. I am currently looking for full-time employment beginning May 2021.
+I am a master's student at the Harvard Kennedy School focusing on the intersections of decision making, data science, and economics. I have done research in economics, management, and political science at both Dartmouth College and Harvard, with additional experience teaching all levels of math and statistics (from elementary school to graduate level courses), and working in quantitative finance. Following the completion of my master's program, I plan to apply to doctoral programs in the quantitative social sciences in a few years. I am currently looking for full-time employment beginning June 2021.
  
 ### **Personal**
 
-Outside of my work you can find me: hiking in New Hampshire, cycling, playing soccer almost at the division III level, reading and subsequently napping, aggressively playing Settlers of Catan, unsuccessfully trying to cook Thai food, noodling on the guitar, traveling to random places, or simply spending time with friends.
+Outside of my work you can find me: hiking, cycling in a relatively straight line, playing soccer almost at the division III level, reading and subsequently napping, aggressively playing Settlers of Catan, unsuccessfully trying to cook Thai food, noodling on the guitar, traveling to random places, or simply spending time with friends.
