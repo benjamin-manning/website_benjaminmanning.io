@@ -14,15 +14,15 @@ role: Graduate Student
 
 # Organizations/Affiliations
 organizations:
-- name: Harvard Kennedy School
-  url: https://www.hks.harvard.edu/
+- name: University of Pennsylvania
+#  url: https://www.hks.harvard.edu/
 
 # Short bio (displayed in user profile at end of posts)
 # bio: 
 
 interests:
 - Economic Development
-- Data Science & Public Policy
+- Statistical Methods
 - Behavioral Decision Making
 
 
@@ -69,7 +69,7 @@ user_groups:
 ---
 ### **Professional**
 
-I am a master's student at the Harvard Kennedy School focusing on the intersections of decision making, data science, and economics. I have done research in economics, management, and political science at both Dartmouth College and Harvard, with additional experience teaching all levels of math and statistics (from elementary school to graduate level courses), and working in quantitative finance. Following the completion of my master's program, I plan to apply to doctoral programs in the quantitative social sciences in a few years. I am currently looking for full-time employment beginning June 2021.
+I am a researcher at the University of Pennsylvania focusing on the intersections of statistics, psychology, and economics. I have done research in economics, management, and political science at both Dartmouth College and Harvard, with additional experience teaching all levels of math and statistics (from elementary school to graduate level courses), and working in quantitative finance.
  
 ### **Personal**
 
