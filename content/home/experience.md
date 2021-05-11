@@ -18,6 +18,14 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Researcher"
+  company = "University of Pennsylvania"
+  #company_url = "https://gov.harvard.edu/"
+  location = "Philadelphia, PA"
+  date_start = "2021-04-26"
+  date_end = ""
+  description = """Working with Professors Angela Duckworth and Colin Camerer"""
+[[experience]]
   title = "Research Associate"
   company = "Harvard University"
   company_url = "https://gov.harvard.edu/"
