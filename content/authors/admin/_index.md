@@ -69,7 +69,7 @@ user_groups:
 ---
 ### **Professional**
 
-I am a researcher at the University of Pennsylvania focusing on the intersections of statistics, psychology, and economics. I have done research in economics, management, and political science at both Dartmouth College and Harvard, with additional experience teaching all levels of math and statistics (from elementary school to graduate level courses), and working in quantitative finance.
+I am a researcher at the University of Pennsylvania and the Character Lab focusing on the intersection of statistics, psychology, and economics. I have done research in economics, management, and political science at both Dartmouth College and Harvard, with additional experience teaching all levels of math and statistics (from elementary school to graduate level courses), and working in quantitative finance.
  
 ### **Personal**
 
