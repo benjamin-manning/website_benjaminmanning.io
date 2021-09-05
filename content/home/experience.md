@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Philadelphia, PA"
   date_start = "2021-04-26"
   date_end = ""
-  description = """Working with Professors Angela Duckworth and Colin Camerer"""
+  description = """Working with Professors Angela Duckworth, Daniel Kahneman, and Colin Camerer"""
 [[experience]]
   title = "Research Associate"
   company = "Harvard University"
