@@ -69,8 +69,8 @@ user_groups:
 ---
 ### **Professional**
 
-I am a researcher at the University of Pennsylvania and the Character Lab focusing on the intersection of statistics, psychology, and economics. I have done research in economics, management, and political science at both Dartmouth College and Harvard, with additional experience teaching all levels of math and statistics (from elementary school to graduate level courses), and working in quantitative finance.
+I am a researcher at the University of Pennsylvania and the Character Lab focusing on the intersection of computational methods and decision-making. I've previsouly done research in economics, management, and political science at both Dartmouth College and Harvard, with additional experience teaching all levels of math and statistics (from elementary school to graduate level courses), and working in quantitative finance. I am hoping to begin my doctoral studies in computational social sciences in the next year or two.
  
 ### **Personal**
 
-Outside of my work you can find me: hiking, cycling in a relatively straight line, playing soccer almost at the division III level, reading and subsequently napping, aggressively playing Settlers of Catan, unsuccessfully trying to cook Thai food, noodling on the guitar, traveling to random places, or simply spending time with friends.
+Outside of my work you can find me: hiking, cycling in a relatively straight line, playing soccer almost at the division III level, reading and subsequently napping, aggressively playing Settlers of Catan, attmpeting tp turn my apartment in to a jungle via houseplants, unsuccessfully trying to cook Thai food, noodling on the guitar, traveling to random places, or simply spending time with friends.
