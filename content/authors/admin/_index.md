@@ -21,8 +21,8 @@ organizations:
 # bio: 
 
 interests:
-- Economic Development
-- Statistical Methods
+- Computational Social Sciences
+- Causal Inference
 - Behavioral Decision Making
 
 
