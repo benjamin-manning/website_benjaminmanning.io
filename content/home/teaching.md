@@ -16,7 +16,15 @@ date_format = "Jan 2006"
 #   Add/remove as many `[[experience]]` blocks below as you like.	
 #   Required fields are `title`, `company`, and `date_start`.	
 #   Leave `date_end` empty if it's your current employer.	
-#   Begin/end multi-line descriptions with 3 quotes `"""`.	
+#   Begin/end multi-line descriptions with 3 quotes `"""`.
+[[experience]]	
+  title = "Teaching Assistant"	
+  company = "Univesity of Pennsylvania"	
+  #company_url = "http://rodriguez.web.unc.edu/"	
+  location = "Philadelphia, PA"	
+  date_start = "2021-09-01"	
+  date_end = ""	
+  description = """Undergraduate Research Seminar with professor Angela Duckworth - Fall 2021"""	
 [[experience]]	
   title = "Teaching Assistant"	
   company = "Harvard Kennedy School"	
