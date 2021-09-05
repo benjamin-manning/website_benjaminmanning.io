@@ -1,6 +1,6 @@
 ---
 title: Teaching Materials for R and Research Methods
-summary: Marterials for teaching University of Pennsylvania undergraduate researchers statistics and research methods in R. Includes basic data cleaning, data visualization, regression analysis, factor analysis, and group testing.
+summary:  Includes data cleaning, data visualization, regression, ANOVA, factor analysis, mediation, moderation, and group testing.
 
 tags:
 - Completed
