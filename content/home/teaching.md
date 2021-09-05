@@ -31,7 +31,7 @@ date_format = "Jan 2006"
   #company_url = "http://rodriguez.web.unc.edu/"	
   location = "Cambridge, MA"	
   date_start = "2019-09-01"	
-  date_end = ""	
+  date_end = "2031-05-19"	
   description = """Empirical Methods II with professor Teddy Svoronos - Spring 2021; Markets & Market Failure with professor Christopher Avery - Fall 2020; Data Science For Politics with professor Benjamin Schneer - Spring 2020"""	
 [[experience]]	
   title = "Teacher"	
