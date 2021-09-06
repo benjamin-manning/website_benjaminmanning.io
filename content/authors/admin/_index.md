@@ -73,4 +73,4 @@ I am a researcher at the University of Pennsylvania and the Character Lab focusi
  
 ### **Personal**
 
-Outside of my work you can find me: hiking, cycling in a relatively straight line, playing soccer almost at the division III level, reading and subsequently napping, aggressively playing Settlers of Catan, attmpeting tp turn my apartment in to a jungle via houseplants, unsuccessfully trying to cook Thai food, noodling on the guitar, traveling to random places, or simply spending time with friends.
+Outside of my work you can find me: hiking, cycling in a relatively straight line, playing soccer almost at the division III level, reading and subsequently napping, aggressively playing Settlers of Catan, attempting to turn my apartment in to a jungle via houseplants, unsuccessfully trying to cook Thai food, noodling on the guitar, traveling to random places, or simply spending time with friends.
