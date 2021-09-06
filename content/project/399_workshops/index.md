@@ -3,7 +3,7 @@ title: Teaching Materials for R and Research Methods
 summary:  Includes data cleaning, data visualization, regression, ANOVA, factor analysis, mediation, moderation, and group testing.
 
 tags:
-- Completed
+- In Progress
 date: "2021-08-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
