@@ -22,8 +22,9 @@ organizations:
 
 interests:
 - Computational Social Sciences
-- Causal Inference
-- Behavioral Decision Making
+- Behavioral Science
+- Machine Learning
+- Economics
 
 
 education:
@@ -69,8 +70,8 @@ user_groups:
 ---
 ### **Professional**
 
-I am a researcher at the University of Pennsylvania and the Character Lab focusing on the intersection of computational methods and decision-making. I've previsouly done research in economics, management, and political science at both Dartmouth College and Harvard, with additional experience teaching all levels of math and statistics (from elementary school to graduate level courses), and working in quantitative finance. I am hoping to begin my doctoral studies in computational social sciences in the next year or two.
- 
+I am a researcher at the University of Pennsylvania focusing on the intersection of computational methods, psychology, and machine learning. I've previsouly done research in economics, management, and political science at both Dartmouth College and Harvard University, with additional experience teaching all levels of math and statistics (from elementary school to graduate level courses). I am currently applying to doctoral programs and I hope to matriculate in fall 2022
+
 ### **Personal**
 
 Outside of my work you can find me: hiking, cycling in a relatively straight line, playing soccer almost at the division III level, reading and subsequently napping, aggressively playing Settlers of Catan, attempting to turn my apartment in to a jungle via houseplants, unsuccessfully trying to cook Thai food, noodling on the guitar, traveling to random places, or simply spending time with friends.
