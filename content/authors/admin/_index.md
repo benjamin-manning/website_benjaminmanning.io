@@ -70,7 +70,7 @@ user_groups:
 ---
 ### **Professional**
 
-I am a researcher at the University of Pennsylvania focusing on the intersection of computational methods, psychology, and machine learning. I've previsouly done research in economics, management, and political science at both Dartmouth College and Harvard University, with additional experience teaching all levels of math and statistics (from elementary school to graduate level courses). I am currently applying to doctoral programs and I hope to matriculate in fall 2022.
+I am a researcher at the University of Pennsylvania working at the intersection of computational social sciences and machine learning. I've previsouly done research in economics, management, and political science at both Dartmouth College and Harvard University, with additional experience teaching all levels of math and statistics (from elementary school to graduate level courses). I am currently applying to doctoral programs and I hope to matriculate in fall 2022.
 
 ### **Personal**
 
