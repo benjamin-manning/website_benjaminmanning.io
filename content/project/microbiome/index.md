@@ -3,7 +3,7 @@ title: Predicting Microorganisms from Human Biomes
 summary: Project predicting the relative abundancies of bacteria from human microbiomes in mice from Ulcerative Colitis patients
 tags:
 - Completed	
-date: "2020-2-27T00:00:00Z"
+date: "2021-5-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: https://github.com/benjamin-manning/starter-academic/blob/master/static/files/Final_project_Notebook.ipynb
