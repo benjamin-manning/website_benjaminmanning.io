@@ -4,7 +4,7 @@ summary: Working with Precision Agriculture for Development optimizing interacti
 
 tags:
 - Completed
-date: "2020-12-27T00:00:00Z"
+date: "2021-06-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: https://github.com/benjamin-manning/starter-academic/blob/master/static/files/Interactive%20Voice%20Response%20Systems%20for%20Low-Literate%20Farmers.pdf
