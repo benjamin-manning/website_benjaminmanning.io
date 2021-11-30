@@ -22,9 +22,7 @@ organizations:
 
 interests:
 - Computational Social Sciences
-- Behavioral Science
 - Machine Learning
-- Economics
 
 
 education:
