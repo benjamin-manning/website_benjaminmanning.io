@@ -20,9 +20,9 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 # bio: 
 
-interests:
-- Computational Social Sciences
-- Machine Learning
+# interests:
+# - Computational Social Sciences
+# - Machine Learning
 
 
 education:
