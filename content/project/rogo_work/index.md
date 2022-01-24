@@ -1,6 +1,7 @@
 ---
-title: U.S. Department of The Interior Historical Employment Analysis
-summary: Statistical analysis on employment records of the United States Department of the Interior from 1849 - 1959 assessing trends in salary, gender, and location - besides the attached slides, project is currently proprietary - please email me for more information
+# title: U.S. Department of The Interior Historical Employment Analysis
+summary: U.S. Department of The Interior Historical Employment Analysis
+# summary: Statistical analysis on employment records of the United States Department of the Interior from 1849 - 1959 assessing trends in salary, gender, and location - besides the attached slides, project is currently proprietary - please email me for more information
 tags:
 - In Progress
 date: "2020-05-27T00:00:00Z"
