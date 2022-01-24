@@ -1,5 +1,6 @@
 ---
-title: Interactive Voice Response System for Low-Literate African Farmers
+# title: Interactive Voice Response System for Low-Literate African Farmers
+summary: Interactive Voice Response System for Low-Literate African Farmers. Benjamin Manning & Eli Berk-Rauch. 2021.
 # summary: Working with Precision Agriculture for Development optimizing interactive voice response systems to help low-literate Ethiopian farmers improve crop yields through operations analysis and machine learning
 
 tags:
@@ -7,14 +8,14 @@ tags:
 date: "2021-06-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://github.com/benjamin-manning/starter-academic/blob/master/static/files/Interactive%20Voice%20Response%20Systems%20for%20Low-Literate%20Farmers.pdf
+external_link: https://drive.google.com/file/d/1rrMX3T5a2WWcUeB-9N17Zc2U91214_4B/view
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
 links:
 url_code: ""
-url_pdf: ""
+url_pdf: "https://drive.google.com/file/d/1rrMX3T5a2WWcUeB-9N17Zc2U91214_4B/view"
 url_slides: "https://docs.google.com/presentation/d/1ZTxFIOGxzzYlJXWEnt4MkHEwOQQwK85lclOuddSWl_Q/edit#slide=id.p"
 url_video: ""
 
