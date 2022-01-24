@@ -1,6 +1,6 @@
 ---
 # title: Automatic Differentiation Package
-summary: Automatic Differentiation Software Package
+summary: Automatic Differentiation Software Package. Final Project for Systems Development for Computational Science at Harvard (2020).
 # summary: Orginially constructed software package which calculates the derivatives and roots of all fuctions for n-dimensional equations and vector-valued funtions
 tags:
 - Completed
