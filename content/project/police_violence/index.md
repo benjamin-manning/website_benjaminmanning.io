@@ -1,6 +1,6 @@
 ---
 title: Police Encounters & Casualties	
-summary: Statistical inference and prediction project assessing patterns of fatal police violence across police departments in the United States	
+# summary: Statistical inference and prediction project assessing patterns of fatal police violence across police departments in the United States	
 tags:
 - Completed	
 date: "2020-2-27T00:00:00Z"
@@ -13,8 +13,8 @@ image:
   focal_point: Smart
 
 links:
-url_code: ""
-url_pdf: ""
+url_code: "https://github.com/benjamin-manning/police_violence_data_project/blob/master/FINAL_NOTEBOOK.ipynb"
+url_pdf: "https://github.com/benjamin-manning/police_violence_data_project/blob/master/Final%20CS%20209%20Paper.pdf"
 url_slides: ""
 url_video: ""
 
