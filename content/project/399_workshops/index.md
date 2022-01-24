@@ -1,6 +1,6 @@
 ---
 # title: Teaching Materials for R and Research Methods
-Summary: Teaching Materials for R and Research Methods
+Summary: Teaching Materials for R and Research Methods. 2021.
 # summary:  Includes data cleaning, data visualization, regression, ANOVA, factor analysis, mediation, moderation, and group testing.
 
 tags:
