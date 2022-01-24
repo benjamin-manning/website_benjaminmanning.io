@@ -1,6 +1,7 @@
 ---
 # title: The Sydcast podcast
-summary: Produced all working parts of the podcast including marketing, creative content, guest acquisition and preparation, technical recording, audio editing, and advertising, which culminated in over 20,000 episode downloads
+summary: The Sydcast Podcast
+# summary: Produced all working parts of the podcast including marketing, creative content, guest acquisition and preparation, technical recording, audio editing, and advertising, which culminated in over 20,000 episode downloads
 
 tags:
 - Completed
