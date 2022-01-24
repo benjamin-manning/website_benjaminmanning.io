@@ -1,6 +1,6 @@
 ---
 # title: Interactive Voice Response System for Low-Literate African Farmers
-summary: Interactive Voice Response System for Low-Literate African Farmers. Benjamin Manning & Eli Berk-Rauch. 2021.
+summary: Interactive Voice Response System for Low-Literate African Farmers. Benjamin Manning & Eli Berk-Rauch. Master's Thesis at the Harvard Kennedy School. 2021.
 # summary: Working with Precision Agriculture for Development optimizing interactive voice response systems to help low-literate Ethiopian farmers improve crop yields through operations analysis and machine learning
 
 tags:
