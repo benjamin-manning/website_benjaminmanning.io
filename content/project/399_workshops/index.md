@@ -1,6 +1,7 @@
 ---
-title: Teaching Materials for R and Research Methods
-summary:  Includes data cleaning, data visualization, regression, ANOVA, factor analysis, mediation, moderation, and group testing.
+# title: Teaching Materials for R and Research Methods
+Summary: Teaching Materials for R and Research Methods
+# summary:  Includes data cleaning, data visualization, regression, ANOVA, factor analysis, mediation, moderation, and group testing.
 
 tags:
 - Completed
@@ -13,7 +14,7 @@ image:
   focal_point: Smart
 
 links:
-url_code: ""
+url_code: "https://github.com/benjamin-manning/R_workshop_399"
 url_pdf: ""
 url_slides: ""
 url_video: ""
