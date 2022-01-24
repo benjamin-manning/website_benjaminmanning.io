@@ -1,5 +1,6 @@
 ---
-title: Police Encounters & Casualties	
+# title: Police Encounters & Casualties	
+summary: Police Encounters & Casualties	Predictive Modeling. 2021.
 # summary: Statistical inference and prediction project assessing patterns of fatal police violence across police departments in the United States	
 tags:
 - Completed	
