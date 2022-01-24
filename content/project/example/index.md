@@ -1,5 +1,6 @@
 ---
-summary: Orginially constructed software package which calculates the derivatives and roots of all fuctions for n-dimensional equations and vector-valued funtions
+title: Automatic Differentiation Package
+# summary: Orginially constructed software package which calculates the derivatives and roots of all fuctions for n-dimensional equations and vector-valued funtions
 tags:
 - Completed
 date: "2020-12-12T00:00:00Z"
@@ -12,7 +13,7 @@ image:
   focal_point: Smart
 
 links:
-url_code: ""
+url_code: "https://github.com/dist-computing/cs107-FinalProject"
 url_pdf: ""
 url_slides: ""
 url_video: ""
