@@ -1,5 +1,4 @@
 ---
-title: Automatic Differentiation Package
 summary: Orginially constructed software package which calculates the derivatives and roots of all fuctions for n-dimensional equations and vector-valued funtions
 tags:
 - Completed
