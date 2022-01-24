@@ -1,6 +1,6 @@
 ---
 # title: Predicting Microorganisms from Human Biomes
-summary: Predicting Microorganisms from Human Biomes
+summary: Predicting Microorganisms from Human Biomes. 2021.
 # summary: Project predicting the relative abundancies of bacteria from human microbiomes in mice from Ulcerative Colitis patients
 tags:
 - Completed	
