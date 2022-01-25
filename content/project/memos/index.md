@@ -1,6 +1,6 @@
 ---
 # title: Public Policy Memos on Topics of National and Global Importance	
-summary: Public Policy Memos on Topics of National and Global Importance (2020)
+summary: Public Policy Memos on Topics of National and Global Importance. 2020.
 # summary: Topics include - The National Parks Service minimizing forest fire damge, improving food insecurity in Ohio, strategizing for the U.S. to rejoin the Iran Nuclear Deal, and addressing COVID-19 in Africa and Latin America during the early stages of the pandemic
 tags:
 - Completed	
