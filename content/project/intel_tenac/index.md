@@ -8,14 +8,14 @@ tags:
 date: "2022-02-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link:
+external_link: https://drive.google.com/file/d/1_LVW1uX-NO108fYlvK_otRZraQ6-3Bmm/view?usp=sharing
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
 links:
 url_code: ""
-url_pdf: ""
+url_pdf: "https://drive.google.com/file/d/1_LVW1uX-NO108fYlvK_otRZraQ6-3Bmm/view?usp=sharing"
 url_slides: ""
 url_video: ""
 
