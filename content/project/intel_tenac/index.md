@@ -1,6 +1,6 @@
 ---
 # title: Teaching Materials for R and Research Methods
-Summary: Makridis, C., Hickman, L., {\bf Manning, B.,} \& Duckworth, A. L. Earnings Are Greater and Increasing in Occupations That Require Intellectual Tenacity \emph{Proceedings of the National Academy of Sciences}. Submitted Feb 2022.
+Summary: Makridis, C., Hickman, L.,  Manning, B. & Duckworth, A. L. Earnings Are Greater and Increasing in Occupations That Require Intellectual Tenacity Proceedings of the National Academy of Sciences. Submitted Feb 2022.
 # summary:  Includes data cleaning, data visualization, regression, ANOVA, factor analysis, mediation, moderation, and group testing.
 
 tags:
