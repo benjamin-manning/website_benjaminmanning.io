@@ -68,7 +68,7 @@ user_groups:
 ---
 ### **Professional**
 
-I am a researcher at the University of Pennsylvania working at the intersection of machine learning and the computational social sciences. I've previsouly done research in a variety of fields at Dartmouth College, Harvard University and the University of Chicago, with additional experience teaching all levels of math and statistics (from elementary school to graduate level courses). I am currently applying to doctoral programs and I hope to matriculate in fall 2022.
+I am a researcher at the University of Pennsylvania working at the intersection of machine learning and the computational social sciences. I've previsouly done research in a variety of fields at Dartmouth College, Harvard University and the University of Chicago, with additional experience teaching all levels of math and statistics (from elementary school to graduate level courses). I am currently applying to doctoral programs and I hope to matriculate in the fall  f 2022.
 
 ### **Personal**
 
