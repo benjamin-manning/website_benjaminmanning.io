@@ -23,6 +23,8 @@ organizations:
 # interests:
 # - Computational Social Sciences
 # - Machine Learning
+# - Behavioral Science
+# - Causal Inference
 
 
 education:
