@@ -20,11 +20,11 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 # bio: 
 
-# interests:
-# - Computational Social Sciences
-# - Machine Learning
-# - Behavioral Science
-# - Causal Inference
+interests:
+- Computational Social Sciences
+- Machine Learning
+- Behavioral Science
+- Causal Inference
 
 
 education:
