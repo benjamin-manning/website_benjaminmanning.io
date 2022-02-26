@@ -1,4 +1,4 @@
-<!-- ---
+---
 # An instance of the Contact widget.
 # Documentation: https://sourcethemes.com/academic/docs/page-builder/
 widget: contact
@@ -28,4 +28,4 @@ content:
 design:
   columns: '2'
 ---
- -->
+
