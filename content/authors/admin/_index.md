@@ -70,8 +70,8 @@ user_groups:
 ---
 ### **Professional**
 
-I am a researcher at the University of Pennsylvania working at the intersection of machine learning and the computational social sciences. I've previsouly done research in a variety of fields at Dartmouth College, Harvard University and the University of Chicago, with additional experience teaching all levels of math and statistics (from elementary school to graduate level courses). I am currently applying to doctoral programs and I hope to matriculate in the fall of 2022.
+I am a researcher at the University of Pennsylvania working at the intersection of machine learning and the computational social sciences. I've previsouly done research in a variety of fields at Dartmouth College, Harvard University and the University of Chicago, with additional experience teaching all levels of math and statistics (from elementary school to graduate level courses). I will be joining MIT in the fall of 2022 to puruse my PhD with the Information Technology group at Sloan.
 
 ### **Personal**
 
-Outside of my work you can find me: hiking, cycling in a relatively straight line, playing soccer almost at the division III level, reading and subsequently napping, aggressively playing Settlers of Catan, attempting to turn my apartment in to a jungle via houseplants, unsuccessfully trying to cook Thai food, noodling on the guitar, traveling to random places, or simply spending time with friends.
+Outside of my work you can find me: hiking, cycling in a relatively straight line, playing soccer almost at the division III level, reading and subsequently napping, aggressively playing Settlers of Catan, attempting to turn my apartment in to a jungle via houseplants, unsuccessfully trying to cook Asian food, noodling on the guitar, traveling to random places, or simply spending time with friends.
