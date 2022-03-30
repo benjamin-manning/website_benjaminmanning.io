@@ -53,6 +53,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/benjamin-manning
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/BennyTheBirdman
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/Benjamin_Manning_Resumé.pdf` and uncomment the lines below.
 - icon: cv
