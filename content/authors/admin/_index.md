@@ -77,4 +77,4 @@ I am a researcher at the University of Pennsylvania working at the intersection 
 
 ### **Personal**
 
-Outside of my work you can find me: hiking, cycling in a relatively straight line, playing soccer almost at the division III level, reading and subsequently napping, aggressively playing Settlers of Catan, attempting to turn my apartment in to a jungle via houseplants, unsuccessfully trying to cook Asian food, noodling on the guitar, traveling to random places, or simply spending time with friends.
+Before I talk more about myself, let me first acknowledge how WILDLY narcissistic it is that I, along with most academics, have the se self-aggrandizing websites :). Now, back to me!!! Outside of my work you can find me: hiking, cycling in a relatively straight line, playing soccer almost at the division III level, reading and subsequently napping, aggressively playing Settlers of Catan, attempting to turn my apartment in to a jungle via houseplants, unsuccessfully trying to cook Asian food, noodling on the guitar, traveling to random places, or simply spending time with friends.
