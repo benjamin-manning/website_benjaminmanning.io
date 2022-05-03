@@ -76,7 +76,7 @@ user_groups:
 ---
 ### **Professional**
 
-I am a researcher at the University of Pennsylvania working in the computational social sciences. My (aspiring) research interests are 1) improving methods for causal inference using the tools of statistics and machine learning in the social sciences, 2) understanding social networks and misinformation. I've previsouly done research in a variety of fields at Dartmouth College, Harvard University, and the University of Chicago with additional experience teaching all levels of math and statistics (from elementary school to graduate level courses). I will be enrolling at MIT in the fall of 2022 to pursue my PhD with the Information Technology group at Sloan.
+I am a researcher at the University of Pennsylvania working in the computational social sciences. My (aspiring) research interests are 1) improving methods for causal inference using the tools of statistics and machine learning in the social sciences, 2) understanding social networks and misinformation. I have teaching experience in all levels of math and statistics (from elementary school to graduate level courses) and I will be enrolling at MIT in the fall of 2022 to pursue my PhD with the Information Technology group at Sloan.
 
 ### **Personal**
 
