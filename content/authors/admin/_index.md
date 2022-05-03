@@ -22,13 +22,16 @@ organizations:
 
 interests:
   - Computational Social Sciences
-  - Machine Learning
+  - Statistical Methods
   - Behavioral Science
   - Causal Inference
 
 
 education:
   courses:
+  - course: Doctor of Philosophy in Information Technology
+    institution: Massachusetts Institute of Technology
+    year: 2022 - Present
   - course: Master of Public Policy
     institution: Harvard Kennedy School
     year: 2019 - 2021
@@ -73,7 +76,7 @@ user_groups:
 ---
 ### **Professional**
 
-I am a researcher at the University of Pennsylvania working in the computational social sciences. I've previsouly done research in a variety of fields at Dartmouth College, Harvard University and the University of Chicago, with additional experience teaching all levels of math and statistics (from elementary school to graduate level courses). I will be enrolling at MIT in the fall of 2022 to pursue my PhD with the Information Technology group at Sloan.
+I am a researcher at the University of Pennsylvania working in the computational social sciences. My (aspiring) research interests are 1) methods for improving causal inference in statistics and machine learning, 2) understanding social networks and misinformation. I've previsouly done research in a variety of fields at Dartmouth College, Harvard University and the University of Chicago, with additional experience teaching all levels of math and statistics (from elementary school to graduate level courses). I will be enrolling at MIT in the fall of 2022 to pursue my PhD with the Information Technology group at Sloan.
 
 ### **Personal**
 
