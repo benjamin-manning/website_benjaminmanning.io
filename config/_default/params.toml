@@ -88,7 +88,7 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "benjamin [dot] scott [dot] manning [at] gmail [dot] com"
+email = "bmanning [at] mit [dot] edu"
 phone = ""
 
 # Address
