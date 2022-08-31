@@ -86,4 +86,4 @@ Before that (yes, I'm an old PhD student - at least relative to my peers. Don't 
 
 ### **Personal**
 
-Outside of my work you can find me: writing long and almost funny descriptions of my life on my personal website, hiking slowly, cycling in a relatively straight line, playing soccer almost at the division III level, reading and subsequently napping, aggressively playing Settlers of Catan, attempting to turn my apartment in to a jungle via houseplants, unsuccessfully trying to cook Asian food, noodling on the guitar, traveling to random places, or simply spending time with friends.
+Outside of my work you can find me: writing long and almost funny descriptions of my life on my personal website, hiking slowly, cycling in a relatively straight line, playing soccer almost at the division III level, reading and subsequently napping, aggressively playing Settlers of Catan, attempting to turn my apartment in to a jungle via houseplants, unsuccessfully trying to bake bread and cook Asian food, noodling on the guitar, traveling to random places, or simply spending time with friends.
