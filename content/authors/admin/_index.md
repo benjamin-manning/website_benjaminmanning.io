@@ -4,7 +4,7 @@
 
 design:
   spacing:
-    padding: ["0", "-20px", "0", "-20px"]
+    padding: ["100px", "100px", "100px", "100px"]
 
 # Username (this should match the folder name)
 authors: 
