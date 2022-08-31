@@ -74,7 +74,7 @@ user_groups:
 - researcher
 
 ---
-Well hey there....
+### **Well Hey There...**
 
 Welcome to my website! I appreciate you stopping by as it took me an inordinately large amount of time to set this up for what I imagine is very little payoff. Let's be real, it's not even that aesthetically pleasing. I am currently a 1st year management science PhD student at MIT in the information technology group at Sloan. If you don't know what that means (sometimes I'm not sure I do), I don't blame you! My mom still can't describe it to her friends, so I've just told her to say "Ben is focusing on the computational social sciences". If for some reason her friends have follow up questions, she's instructed to say "he studies the intersection of computer science, psychology, economics, and statistics," which is what my coursework has focused on and are the main disiplines I draw from. If they continue to ask questions, she usually just runs away and hides.
 
