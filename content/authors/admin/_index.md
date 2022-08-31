@@ -82,7 +82,7 @@ If you're still reading this, you're probably a researcher and have one of these
 
 Priot to my time at MIT I was EXTREMELY lucky and worked as a pre-doctoral researcher at the University of Pennsylvania with Angela Duckworth - one of the coolest people around. I was even MORE lucky (undeservedly so) that Angela dragged me along to collaborate with some of the most badass academics ever including: Daniel Kahneman, Colin Camerer, Jordan Ellenberg, Lyle Ungar, and Mark Liberman on a variety of projects in psychology, computational linguistics, and reinforcement learning. 
 
-Before that (yes, I'm an old PhD student - at least relative to my peers. Don't remind me), I worked as a researcher at Dartmouth College, a high school math teacher in rural Thailand, received my master in public policy from the Harvard Kennedy School, and a bachelor's in a applied mathematics from Washington University in St. Louis.
+Before that (yes, I'm an old PhD student - at least relative to my peers. Don't remind me), I worked as a high school math teacher in rural Thailand, a researcher at several universities (Dartmouth, Harvard, and Uchicago), received my master in public policy from the Harvard Kennedy School, and received a bachelor's in a applied mathematics from Washington University in St. Louis.
 
 ### **Personal**
 
