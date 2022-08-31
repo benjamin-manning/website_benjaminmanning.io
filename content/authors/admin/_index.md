@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Researcher
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: University of Pennsylvania
+- name: Massachusetts Institute of Technology
 #  url: https://www.hks.harvard.edu/
 
 # Short bio (displayed in user profile at end of posts)
