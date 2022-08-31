@@ -74,7 +74,7 @@ user_groups:
 - researcher
 
 ---
-Welcome to my website - thanks for stopping by! It took me so long to set this up, but let's be real, it's mediocre at best. I'm a 1st year Management Science PhD student at MIT in the IT group at Sloan. If you don't know what that means, you're not alone! My mom still can't describe it to her friends. I've told her to say "he studies the computational social sciences." If her friends have more questions, she's instructed to say "he works at the intersection of computer science, economics, and statistics." If they continue to inquire, she runs away and hides.
+Welcome to my website! It took me so long to set this up, but let's be real, it's mediocre at best. I'm a 1st year Management Science PhD student at MIT in the IT group at Sloan. If you don't know what that means, you're not alone! My mom still can't describe it to her friends. I've told her to say "he studies the computational social sciences." If her friends have more questions, she's instructed to say "he works at the intersection of computer science, economics, and statistics." If they keep asking, she runs away and hides.
 
 Before I continue, let me state how **wildly** narcissistic it is that I, along with most academics, have these self-aggrandizing websites. Now, back to me! *My research interests are 1) improving methods for causal inference using statistics and machine learning, 2) studying complexity & social networks.* To be honest, I just started my PhD and I know nothing/don't know what I like - check back in a few years for updates.
 
