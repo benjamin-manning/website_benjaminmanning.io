@@ -2,10 +2,6 @@
 # Display name
 # title: Benjamin Manning
 
-design:
-  spacing:
-    padding: ["100px", "100px", "100px", "100px"]
-
 # Username (this should match the folder name)
 authors: 
 - admin
