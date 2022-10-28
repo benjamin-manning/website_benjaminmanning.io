@@ -24,3 +24,8 @@
   name = "CV"
   url = "files/Benjamin_Manning_Resumé.pdf"
   weight = 40
+ 
+[[main]]
+  name = "Books I've Read"
+  url = "https://docs.google.com/spreadsheets/d/19sv3paTfXSQFtlNcaIpsS2R5T0AxnkP3nLnloaEnkCU/edit#gid=0"
+  weight = 50
