@@ -1,6 +1,6 @@
 ---
 # title: Teaching Materials for R and Research Methods
-Summary: Makridis, C., Hickman, L.,  **Manning, B.** & Duckworth, A. L. Earnings Are Greater and Increasing in Occupations That Require Intellectual Tenacity. *Working Paper* - email for details.
+Summary: Makridis, C., Hickman, L.,  **Manning, B.** & Duckworth, A. L. Earnings Are Greater and Increasing in Occupations That Require Intellectual Tenacity. *Working Paper*
 # summary:  Includes data cleaning, data visualization, regression, ANOVA, factor analysis, mediation, moderation, and group testing.
 
 tags:
@@ -8,7 +8,7 @@ tags:
 date: "2022-02-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: 
+external_link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4365176
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
