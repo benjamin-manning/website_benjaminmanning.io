@@ -50,9 +50,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/benjamin-manning-ab2735b2/
-# - icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=teSF3_AAAAAJ&hl=en&oi=sra
 - icon: github
   icon_pack: fab
   link: https://github.com/benjamin-manning
