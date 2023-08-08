@@ -1,5 +1,5 @@
 ---
-Summary: Causal Magnification in Psychological Research** (with Linnea Gandhi, Angela Duckworth, and Daniel Kahneman). _Accepted Proposal at Current Directions in Psychological Science_.
+Summary: Causal Magnification in Psychological Research** (with Linnea Gandhi, Angela Duckworth, and Daniel Kahneman). Accepted Proposal at Current Directions in Psychological Science.
 # summary:  Includes data cleaning, data visualization, regression, ANOVA, factor analysis, mediation, moderation, and group testing.
 
 tags:
