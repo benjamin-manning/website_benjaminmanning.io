@@ -1,7 +1,6 @@
 ---
 # title: Teaching Materials for R and Research Methods
-Summary: Earnings Are Greater and Increasing in Occupations That Require Intellectual Tenacity (with Louis Hickman & Christos
-Makridis). Under Review.
+Summary: Earnings Are Greater and Increasing in Occupations That Require Intellectual Tenacity (with Louis Hickman & Christos Makridis). Under Review.
 # summary:  Includes data cleaning, data visualization, regression, ANOVA, factor analysis, mediation, moderation, and group testing.
 
 tags:
