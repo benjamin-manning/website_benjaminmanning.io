@@ -8,7 +8,7 @@ tags:
 date: "2021-06-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://drive.google.com/file/d/1rrMX3T5a2WWcUeB-9N17Zc2U91214_4B/view
+external_link:
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
