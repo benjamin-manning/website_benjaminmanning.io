@@ -9,7 +9,7 @@
   weight = 10
   
 [[main]]
-  name = "Selected Projects"
+  name = "Working Papers"
   url = "#projects"
   weight = 20
   
