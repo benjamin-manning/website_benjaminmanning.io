@@ -1,6 +1,6 @@
 ---
-# title: Interactive Voice Response System for Low-Literate African Farmers
-summary: **Interactive Voice Response System for Low-Literate African Farmers** with Eli Berk-Rauch. Master's Thesis at the Harvard Kennedy School. 2021.
+title: Interactive Voice Response System for Low-Literate African Farmers
+summary: Interactive Voice Response System for Low-Literate African Farmers with Eli Berk-Rauch. Master's Thesis at the Harvard Kennedy School. 2021.
 # summary: operations analysis and machine learning
 
 tags:
