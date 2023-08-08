@@ -1,5 +1,5 @@
 ---
-Summary: **Causal Magnification in Psychological Research** (with Linnea Gandhi, Angela Duckworth, \& Daniel Kahneman). \textit{Accepted Proposal}. \textit{Current Directions in Psychological Science.}
+Summary: **Causal Magnification in Psychological Research** (with Linnea Gandhi, Angela Duckworth, \& Daniel Kahneman). _Accepted Proposal at Current Directions in Psychological Science_.
 # summary:  Includes data cleaning, data visualization, regression, ANOVA, factor analysis, mediation, moderation, and group testing.
 
 tags:
