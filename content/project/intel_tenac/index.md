@@ -1,6 +1,6 @@
 ---
-title: Teaching Materials for R and Research Methods
-Summary: with Louis Hickman & Christos Makridis. Under Review.
+title: Earnings Are Greater and Increasing in Occupations that Require Intellectual Tenacity
+Summary: With Louis Hickman & Christos Makridis. Under Review.
 # summary:  Includes data cleaning, data visualization, regression, ANOVA, factor analysis, mediation, moderation, and group testing.
 
 tags:
