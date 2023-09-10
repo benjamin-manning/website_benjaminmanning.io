@@ -22,7 +22,7 @@ organizations:
 
 interests:
   - Economics
-  - Experiments
+  - Experimental Methodology
   - Behavioral Science
   - Causal Inference
   - Machine Learning
@@ -72,12 +72,10 @@ user_groups:
 - researcher
 
 ---
-I'm a 2nd year PhD student at MIT in the [IT group at Sloan](https://mitsloan.mit.edu/phd/program-overview/it). If you don't know what that means, you're not alone! My mom still can't describe it to her friends, so I've told her to say "he studies economics and the computational social sciences." If her friends have more questions, she's instructed to say "he works at the intersection of economics, behavioral science, statistics, and machine learning" If they keep asking, she runs away and hides.
+I'm a 2nd year PhD student at MIT in the [IT group at Sloan](https://mitsloan.mit.edu/phd/program-overview/it). If you don't know what that means, you're not alone! My mom still can't describe it to her friends, so I've told her to say "he studies economics and the computational social sciences." If her friends have more questions, she's instructed to say "he works at the intersection of economics, behavioral science, causal inference, and machine learning" If they keep asking, she runs away and hides.
 
 Before I continue, let me state how **wildly** narcissistic it is that I, along with most academics, have these self-aggrandizing websites. Now, back to me! 
-At MIT I work with [John Horton](https://john-joseph-horton.com/) & [Sinan Aral](https://www.sinanaral.io/). My research interests lie at the intersection of experimentation, complexity, and causal inference. I am currently trying to use Machine Learning, LLMs, econometric methods, and some clever software engineering to improve and simulate the social scientific process from hypothesis generation to experimentation to data analysis.
-
-Prior to MIT, I was **very** lucky, undeservedly so, and worked at Penn under [Angela Duckworth](https://angeladuckworth.com/), one of the coolest people around.
+At MIT I work with [John Horton](https://john-joseph-horton.com/).  I am currently pursuing research in two highly related, but distinct areas: (1) attempts at automating the social scientific process from hypothesis generation to experimentation to data analysis, and (2) determining what, how, and when we can learn about humans from generative AI and machine learning models. Prior to MIT, I was **very** lucky, undeservedly so, and worked at Penn under [Angela Duckworth](https://angeladuckworth.com/), one of the coolest people around.
 
 In my free time you can find me writing almost funny vignettes on my website, hiking slowly, cycling through traffic, playing soccer almost at the D-III level, reading/napping, playing Settlers of Catan, talking to my houseplants, trying to cook, noodling on the guitar/uke, traveling, or simply spending time with friends.
 
