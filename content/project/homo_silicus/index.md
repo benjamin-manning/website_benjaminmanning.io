@@ -16,7 +16,7 @@ image:
 links:
 url_code: ""
 url_pdf: "https://john-joseph-horton.com/papers/llm_ask.pdf"
-url_slides: "https://docs.google.com/presentation/d/1T6oDDyCGYaPtHQ09Q1Mus4qAgbsX6aigHdzGcbjmY3g/edit#slide=id.p"
+url_slides: "https://docs.google.com/presentation/d/1KnrJFpe8iQqlLVbbi_l1IIwnvgD6E-eHDj5C_ZJBJzc/edit#slide=id.p"
 url_video: ""
 
 # Slides (optional).
