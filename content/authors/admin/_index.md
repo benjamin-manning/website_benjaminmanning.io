@@ -30,13 +30,16 @@ interests:
 
 education:
   courses:
-  - course: PhD in Management Science & Information Technology
+  - course: Ph.D., Management Science & Information Technology
     institution: Massachusetts Institute of Technology
     year: 2022 - Present
+  - course: S.M. Management Research
+    institution: Massachusetts Institute of Technology
+    year: 2022 - Present   
   - course: Master of Public Policy
     institution: Harvard Kennedy School
     year: 2019 - 2021
-  - course: BA in Applied Mathematics
+  - course: B.A. in Applied Mathematics
     institution: Washington University in St. Louis
     year: 2013 - 2017
     
