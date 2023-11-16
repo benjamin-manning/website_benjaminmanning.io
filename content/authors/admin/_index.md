@@ -33,13 +33,13 @@ education:
   - course: Ph.D., Management Science & Information Technology
     institution: Massachusetts Institute of Technology
     year: 2022 - Present
-  - course: S.M. Management Research
+  - course: S.M., Management Research
     institution: Massachusetts Institute of Technology
     year: 2022 - Present   
   - course: Master of Public Policy
     institution: Harvard Kennedy School
     year: 2019 - 2021
-  - course: B.A. in Applied Mathematics
+  - course: B.A., Applied Mathematics
     institution: Washington University in St. Louis
     year: 2013 - 2017
     
