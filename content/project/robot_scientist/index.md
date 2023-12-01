@@ -1,5 +1,5 @@
 ---
-title: A System for Automated Social Science
+title: Automated Social Scientific Experimentation
 Summary: With Kehang Zhu and John J. Horton.
 # summary: asdf
 
