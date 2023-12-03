@@ -16,7 +16,7 @@ image:
 links:
 url_code: ""
 url_pdf: ""
-url_slides: "(https://docs.google.com/presentation/d/17PCsLBtbIaSqfLOLFYEHk1HqWk0URfGiM0WSs4JKje0/edit#slide=id.g2958483ff8f_0_3"
+url_slides: "https://docs.google.com/presentation/d/17PCsLBtbIaSqfLOLFYEHk1HqWk0URfGiM0WSs4JKje0/edit#slide=id.g2958483ff8f_0_3"
 url_video: ""
 
 # Slides (optional).
