@@ -1,6 +1,6 @@
 ---
-title: Causal Magnification in Psychological Research
-Summary: With Linnea Gandhi, Angela Duckworth, and Daniel Kahneman. Accepted Proposal at Current Directions in Psychological Science.
+title: Effect Size Magnification: No Variable is as Important as the One You’re Thinking About—While You’re Thinking About It
+Summary: With Linnea Gandhi and Angela Duckworth. Accepted Proposal at Current Directions in Psychological Science.
 # summary:  Includes data cleaning, data visualization, regression, ANOVA, factor analysis, mediation, moderation, and group testing.
 
 tags:
