@@ -21,10 +21,10 @@ organizations:
 # bio: 
 
 interests:
-  - Economics
-  - Experimental Methodology
-  - Causal Inference
+  - Experimental Economics
+  - Behavioral Economics
   - Machine Learning
+  - Causal Inference
 
 
 education:
@@ -74,11 +74,12 @@ user_groups:
 - researcher
 
 ---
-I'm a 2nd year PhD student at MIT in the [IT group at Sloan](https://mitsloan.mit.edu/phd/program-overview/it). If you don't know what that means, you're not alone! My mom still can't describe it to her friends, so I've told her to say, "he studies how we can use machine learning and statistics to improve scientific methodology and learn about human behavior." If her friends have more questions, she's instructed to say, "he works at the intersection of economics, statistics, and computer science." If they keep asking, she runs away and hides.
+I'm a 2nd year PhD student at MIT in the [IT group at Sloan](https://mitsloan.mit.edu/phd/program-overview/it). If you don't know what that means, you're not alone! My mom still can't describe it to her friends, so I've told her to say, "he studies how we can use machine learning and statistics to improve scientific methodology and learn about human behavior." If her friends have more questions, she's instructed to say, "he works at the intersection of economics and machine learning." If they keep asking, she runs away and hides.
 
 Before I continue, let me state how **wildly** narcissistic it is that I, along with most academics, have these self-aggrandizing websites. Now, back to me! 
 
 I am currently pursuing research in two highly related but distinct areas: (1) attempts at automating the social scientific process from hypothesis generation to experimentation to data analysis, and (2) determining what, how, and when we can learn about humans from generative AI and machine learning models.
+In general, I am excited about exploring the intersection of behavioral economics, causal inference, and machine learning.
 
 In my free time, you can find me writing almost funny vignettes on my website, hiking slowly, cycling through traffic, playing soccer almost at the D-III level, reading/napping, playing Settlers of Catan, talking to my houseplants, trying to cook, noodling on the guitar/uke, traveling, or simply spending time with friends.
 
