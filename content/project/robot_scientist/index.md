@@ -8,14 +8,14 @@ tags:
 date: "2023-11-03T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: “static/files/rs.pdf"
+external_link: "/static/files/rs.pdf"
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
 links:
 url_code: ""
-url_pdf: “static/files/rs.pdf"
+url_pdf: "/static/files/rs.pdf"
 url_slides: "https://docs.google.com/presentation/d/17PCsLBtbIaSqfLOLFYEHk1HqWk0URfGiM0WSs4JKje0/edit#slide=id.g2958483ff8f_0_3"
 url_video: ""
 
