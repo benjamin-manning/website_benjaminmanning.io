@@ -1,5 +1,5 @@
 ---
-title: Automated Social Science---A Structural Causal Model-Based Approach
+title: "Automated Social Science: A Structural Causal Model-Based Approach"
 Summary: With Kehang Zhu and John J. Horton.
 # summary: asdf
 
@@ -16,7 +16,7 @@ image:
 links:
 url_code: ""
 url_pdf: "/files/rs.pdf"
-url_slides: "https://docs.google.com/presentation/d/17PCsLBtbIaSqfLOLFYEHk1HqWk0URfGiM0WSs4JKje0/edit#slide=id.g2958483ff8f_0_3"
+url_slides: ""
 url_video: ""
 
 # Slides (optional).
