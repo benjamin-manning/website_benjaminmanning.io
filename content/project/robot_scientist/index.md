@@ -16,6 +16,7 @@ image:
 links:
 url_code: ""
 url_pdf: "/files/rs.pdf"
+url_prompts: "/files/prompts”
 url_slides: ""
 url_video: ""
 
