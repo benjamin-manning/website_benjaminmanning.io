@@ -14,6 +14,8 @@ image:
   focal_point: Smart
 
 links:
+- name: Prompts
+  url: "/files/prompts"
 url_code: ""
 url_pdf: "/files/rs.pdf"
 url_slides: ""
