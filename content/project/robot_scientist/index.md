@@ -15,7 +15,7 @@ image:
 
 links:
 - name: Prompts
-  url: "/files/prompts"
+  url: "https://www.dropbox.com/scl/fo/vv6q1uhywxi6cp647x7bs/h?rlkey=95242efpzxx1scy69g069huvp&dl=0"
 url_code: ""
 url_pdf: "/files/rs.pdf"
 url_slides: ""
