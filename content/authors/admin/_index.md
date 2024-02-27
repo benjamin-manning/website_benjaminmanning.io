@@ -63,7 +63,7 @@ social:
 # To enable, copy your resume/CV to `static/files/Benjamin_Manning_Resume.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/Benjamin_Manning_Resumé.pdf
+  link: files/Benjamin_Manning_Resume.pdf
   
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: benjamin.scott.manning@gmail.com
