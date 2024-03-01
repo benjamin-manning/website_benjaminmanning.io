@@ -21,8 +21,8 @@ organizations:
 # bio: 
 
 interests:
-  - Experimental Economics
   - Behavioral Economics
+  - Experiments
   - Machine Learning
   - Causal Inference
 
@@ -74,16 +74,16 @@ user_groups:
 - researcher
 
 ---
-I'm a 2nd year PhD student at MIT in the [IT group at Sloan](https://mitsloan.mit.edu/phd/program-overview/it). If you don't know what that means, you're not alone! My mom still can't describe it to her friends, so I've told her to say, "he studies how we can use machine learning and statistics to improve scientific methodology and learn about human behavior." If her friends have more questions, she's instructed to say, "he works at the intersection of economics and computer science.” If they keep asking, she runs away and hides.
+I'm a 2nd year PhD student at MIT in the [IT group at Sloan](https://mitsloan.mit.edu/phd/program-overview/it). If you don't know what that means, you're not alone. My mom still can't describe it to her friends, so I've told her to say, "he studies how we can use machine learning and statistics to improve scientific methodology and learn about human behavior." If her friends have more questions, she's instructed to say, "he works at the intersection of economics and computer science.” If they keep asking, she runs away and hides.
 
 Before I continue, let me state how **wildly** narcissistic it is that I, along with most academics, have these self-aggrandizing websites. Now, back to me! 
 
 I am currently pursuing research in two related but distinct areas: (1) attempts at automating the social scientific process from hypothesis generation to experimentation to data analysis, and (2) determining what, how, and when we can learn about humans from generative AI and machine learning models.
 In general, I am excited about exploring the intersection of behavioral economics, causal inference, and machine learning.
 
-In my free time, you can find me writing almost funny vignettes on my website, hiking slowly, cycling through traffic, playing soccer almost at the D-III level, reading/napping, playing Settlers of Catan, noodling on the guitar/uke, traveling, or simply spending time with friends.
+In my free time, you can find me writing almost funny vignettes on my website, hiking slowly, cycling through traffic, playing soccer almost well, reading/napping, playing Catan, traveling, or simply hanging with friends.
 
-P.S. and P.S.A. As an (aspiring) academic, I have strong opinions about almost everything - especially topics I know nothing about (like politics). Despite what some would describe as an "obstinate" personality, I advocate for viewpoint diversity (even viewpoints I hate, of which there are many, so many). As such, I am a member of Jonathan Haidt’s [Heterodox Academy](https://heterodoxacademy.org), a nonpartisan, nonprofit group dedicated to promoting open inquiry, viewpoint diversity, and constructive disagreement in higher education. Universities’ continuing success and independence depend on upholding these values. If you have questions about this organization or my stated membership, please message me. I am always available to discuss these topics.
+P.S. and P.S.A. As an (aspiring) academic, I have strong opinions about almost everything - especially topics I know nothing about (like politics). Despite what some would describe as an "obstinate" personality, I advocate for viewpoint diversity (even viewpoints I hate, of which there are many, so many). As such, I am a member of Jonathan Haidt’s [Heterodox Academy](https://heterodoxacademy.org), a nonpartisan, nonprofit group dedicated to promoting open inquiry, viewpoint diversity, and constructive disagreement in higher education. Please message me if you have questions about this organization or my stated membership.
 
 
 
