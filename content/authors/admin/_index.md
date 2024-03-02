@@ -77,8 +77,8 @@ user_groups:
 I'm a 2nd year PhD student at MIT in the [IT group at Sloan](https://mitsloan.mit.edu/phd/program-overview/it). If you don't know what that means, you're not alone. My mom still can't describe it to her friends, so I've told her to say, "he studies how we can use machine learning and statistics to improve scientific methodology and learn about human behavior." If her friends have more questions, she's instructed to say, "he works at the intersection of economics and computer science.” If they keep asking, she runs away and hides.
 
 Before I continue, let me state how **wildly** narcissistic it is that I, along with most academics, have these self-aggrandizing websites. Now, back to me! 
-My research is primarily focused on the intersection of behavioral economics, causal inference, and machine learning.
-In general, I am most interested in how we can learn more about humans with generative AI and other statistical methods. 
+My research primarily focuses on the intersection of behavioral economics, causal inference, and machine learning.
+I am most interested in how we can learn more about humans with the help of generative AI and new statistical methods. 
 
 In my free time, you can find me writing almost funny vignettes on my website, hiking slowly, cycling through traffic, playing soccer almost well, reading/napping, playing Catan, traveling, or simply hanging with friends.
 
