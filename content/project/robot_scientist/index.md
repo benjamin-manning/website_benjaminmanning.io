@@ -16,6 +16,8 @@ image:
 links:
 - name: Prompts
   url: "https://www.dropbox.com/scl/fo/vv6q1uhywxi6cp647x7bs/h?rlkey=95242efpzxx1scy69g069huvp&dl=0"
+- name: Short Draft
+  url: "/files/nature_draft_rs.pdf"
 url_code: ""
 url_pdf: "/files/rs.pdf"
 url_slides: ""
