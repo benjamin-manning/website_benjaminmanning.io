@@ -1,5 +1,5 @@
 ---
-title: "Automated Social Science: A Structural Causal Model-Based Approach"
+title: "Automated Social Science: Language Models as Scientist and Subjects"
 Summary: With Kehang Zhu and John J. Horton.
 # summary: asdf
 
@@ -16,8 +16,6 @@ image:
 links:
 - name: Prompts
   url: "https://www.dropbox.com/scl/fo/vv6q1uhywxi6cp647x7bs/h?rlkey=95242efpzxx1scy69g069huvp&dl=0"
-- name: Short Draft
-  url: "/files/nature_draft_rs.pdf"
 - name: "Press: Marginal Revolution"
   url: "https://marginalrevolution.com/marginalrevolution/2024/03/its-happening-economic-science-edition.html"
 url_code: ""
