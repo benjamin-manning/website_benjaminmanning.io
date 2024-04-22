@@ -15,7 +15,7 @@ image:
 
 links:
 - name: Prompts
-  url: "https://www.dropbox.com/scl/fo/vv6q1uhywxi6cp647x7bs/h?rlkey=95242efpzxx1scy69g069huvp&dl=0"
+  url: "https://arxiv.org/abs/2404.11794"
 - name: "Press: Marginal Revolution"
   url: "https://marginalrevolution.com/marginalrevolution/2024/03/its-happening-economic-science-edition.html"
 url_code: ""
