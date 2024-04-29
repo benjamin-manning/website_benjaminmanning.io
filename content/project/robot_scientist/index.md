@@ -8,7 +8,7 @@ tags:
 date: "2023-11-03T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "/files/rs.pdf"
+external_link: "https://www.nber.org/papers/w32381"
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
