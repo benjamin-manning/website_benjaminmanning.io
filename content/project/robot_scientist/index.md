@@ -1,6 +1,6 @@
 ---
 title: "Automated Social Science: Language Models as Scientist and Subjects"
-Summary: With Kehang Zhu and John J. Horton.
+Summary: With Kehang Zhu and John J. Horton. NBER working paper.
 # summary: asdf
 
 tags:
@@ -14,12 +14,10 @@ image:
   focal_point: Smart
 
 links:
-- name: Prompts
-  url: "https://arxiv.org/abs/2404.11794"
 - name: "Press: Marginal Revolution"
   url: "https://marginalrevolution.com/marginalrevolution/2024/03/its-happening-economic-science-edition.html"
 url_code: ""
-url_pdf: "/files/rs.pdf"
+url_pdf: "https://www.nber.org/papers/w32381"
 url_slides: ""
 url_video: ""
 
