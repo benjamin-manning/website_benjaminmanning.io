@@ -16,7 +16,7 @@ image:
 links:
 - name: "Press: Marginal Revolution"
   url: "https://marginalrevolution.com/marginalrevolution/2024/03/its-happening-economic-science-edition.html"
-url_code: ""
+url_code: "https://github.com/KeHang-Zhu/lm-automated-social-science/"
 url_pdf: "https://www.nber.org/papers/w32381"
 url_slides: ""
 url_video: ""
