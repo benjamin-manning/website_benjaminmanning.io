@@ -9,7 +9,7 @@
   weight = 10
   
 [[main]]
-  name = "Working Papers"
+  name = "Selected Research"
   url = "#working_papers"
   weight = 20
   
@@ -26,6 +26,6 @@
   weight = 40
  
 [[main]]
-  name = "Books I've Read"
+  name = "My Reading List"
   url = "https://www.goodreads.com/review/list/150804789-benjamin-manning?shelf=read"
   weight = 50
