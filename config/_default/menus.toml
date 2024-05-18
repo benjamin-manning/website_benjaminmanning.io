@@ -25,7 +25,7 @@
   url = "files/Benjamin_Manning_Resume.pdf"
   weight = 40
 
-[[Substack]]
+[[main]]
   name = "Substack"
   url = "https://benjaminmanning.substack.com/"
   weight = 50
