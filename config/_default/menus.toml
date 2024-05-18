@@ -24,8 +24,13 @@
   name = "CV"
   url = "files/Benjamin_Manning_Resume.pdf"
   weight = 40
+
+[[Substack]]
+  name = "CV"
+  url = "https://benjaminmanning.substack.com/"
+  weight = 50
  
 [[main]]
   name = "My Reading List"
   url = "https://www.goodreads.com/review/list/150804789-benjamin-manning?shelf=read"
-  weight = 50
+  weight = 60
