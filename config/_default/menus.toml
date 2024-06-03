@@ -9,8 +9,8 @@
   weight = 10
   
 [[main]]
-  name = "Selected Research"
-  url = "#working_papers"
+  name = "Selected Papers"
+  url = "#selected_papers"
   weight = 20
   
 [[main]]
