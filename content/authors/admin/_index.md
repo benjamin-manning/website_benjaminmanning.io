@@ -78,7 +78,7 @@ I'm a 3rd year PhD candidate at MIT in the [IT group at Sloan](https://mitsloan.
 
 Before I continue, let me state how **wildly** narcissistic it is that I, along with most academics, have these self-aggrandizing websites. Now, back to me! 
 My research primarily focuses on the intersection of behavioral economics, causal inference, and machine learning.
-I am most interested in (1) how and when we can learn more about humans with the help of generative AI and new computational methods and (2) the effects of using AI agents as proxies for people in online markets.
+I am most interested in (1) how and when we can learn more about humans with the help of generative AI and new computational methods and (2) the effects of using AI agents to exchange information in online markets.
 
 In my free time, you can find me writing almost funny vignettes on my website, hiking slowly, cycling through traffic, playing soccer almost well, reading/napping, playing Catan, traveling, or simply hanging with friends.
 
