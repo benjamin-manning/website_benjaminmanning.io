@@ -74,11 +74,11 @@ user_groups:
 - researcher
 
 ---
-I'm a 3rd year PhD candidate at MIT in the [IT group at Sloan](https://mitsloan.mit.edu/phd/program-overview/it). If you don't know what that means, you're not alone. My mom still can't describe it to her friends, so I've told her to say, "he studies how we can use machine learning/generative AI to learn about human behavior and how AI agents affect market interactions’’ If her friends have more questions, she's instructed to say, "he is an economist who draws heavily on computer science and psychology.” If they keep asking, she runs away and hides.
+I'm a 3rd year PhD candidate at MIT in the [IT group at Sloan](https://mitsloan.mit.edu/phd/program-overview/it). If you don't know what that means, you're not alone. My mom still can't describe it to her friends, so I've told her to say, "he studies how we can use machine learning/generative AI to learn about human behavior and how AI agents impact markets.’’ If her friends have more questions, she's instructed to say, "he is an economist who draws heavily on computer science and psychology.” If they keep asking, she runs away and hides.
 
 Before I continue, let me state how **wildly** narcissistic it is that I, along with most academics, have these self-aggrandizing websites. Now, back to me! 
 My research primarily focuses on the intersection of behavioral economics, causal inference, and machine learning.
-I am most interested in (1) how and when we can learn more about humans with the help of generative AI and new computational methods, (2) the capacity of AI agents to accurately encode human preferences, and (3) the effects of using AI agents to exchange information in online markets.
+I am most interested in (1) how and when we can learn more about humans with the help of generative AI and new computational methods, (2) the capacity of AI agents to accurately encode human preferences, and (3) the impact of using AI agents to facilitate the exchange of information, both among other agents and with humans.
 
 In my free time, you can find me writing almost funny vignettes on my website, hiking slowly, cycling through traffic, playing soccer almost well, reading/napping, playing Catan, traveling, or simply hanging with friends.
 
