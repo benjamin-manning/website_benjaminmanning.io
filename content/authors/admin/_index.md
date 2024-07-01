@@ -74,7 +74,7 @@ user_groups:
 - researcher
 
 ---
-I'm a 3rd year PhD candidate at MIT in the [IT group at Sloan](https://mitsloan.mit.edu/phd/program-overview/it). If you don't know what that means, you're not alone. My mom still can't describe it to her friends, so I've told her to say, "he studies how we can use machine learning/generative AI to learn about human behavior and how AI agents impact markets.’’ If her friends have more questions, she's instructed to say, "he is an economist who draws heavily on computer science and psychology.” If they keep asking, she runs away and hides.
+I'm a 3rd year PhD candidate at MIT in the [IT group at Sloan](https://mitsloan.mit.edu/phd/program-overview/it). If you don't know what that means, you're not alone. My mom still can't describe it to her friends, so I've told her to say, "he studies how we can use AI to learn about human behavior and how AI can be used to impact human decision-making.’’ If her friends have more questions, she's instructed to say, "he is an economist who draws heavily on computer science and psychology.” If they keep asking, she runs away and hides.
 
 Before I continue, let me state how **wildly** narcissistic it is that I, along with most academics, have these self-aggrandizing websites. Now, back to me! 
 My research primarily focuses on the intersection of behavioral economics, causal inference, and machine learning.
