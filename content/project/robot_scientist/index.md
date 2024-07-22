@@ -5,7 +5,7 @@ Summary: With Kehang Zhu and John J. Horton. NBER working paper.
 
 tags:
 - Completed
-date: "2023-11-03T00:00:00Z"
+date: "2024-06-03T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://www.nber.org/papers/w32381"
