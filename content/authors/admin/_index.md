@@ -80,7 +80,7 @@ Before I continue, let me state how **wildly** narcissistic it is that I, along 
 My research primarily focuses on the intersection of behavioral economics, causal inference, and machine learning.
 I am most interested in (1) how and when we can learn more about humans with the help of generative AI and new computational methods, (2) the capacity of AI agents to accurately encode human preferences, and (3) the impact of using AI agents to facilitate the exchange of information, both among other agents and with humans.
 
-In my free time, you can find me writing almost funny vignettes on my website, hiking slowly, cycling through traffic, playing soccer almost well, reading/napping, playing Catan, traveling, or simply hanging with friends.
+In my free time, you can find me writing almost funny vignettes on my website, hiking slowly, cycling through traffic, kicking a soccer ball, reading/napping, playing Catan, traveling, or simply hanging with friends. I also have a thing for [ice cream](https://benjaminmanning.substack.com/p/im-almost-30-and-im-still-writing).
 
 P.S. and P.S.A. As an (aspiring) academic, I have strong opinions about almost everything. Despite what some describe as an "obstinate" personality, I advocate for viewpoint diversity (even viewpoints I hate, of which there are many, so many). As such, I am a member of Jonathan Haidt’s [Heterodox Academy](https://heterodoxacademy.org), a nonpartisan, nonprofit group dedicated to promoting open inquiry, viewpoint diversity, and constructive disagreement in higher education. Please message me if you have questions about this organization or my stated membership.
 
