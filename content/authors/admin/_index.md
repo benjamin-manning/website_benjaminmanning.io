@@ -22,9 +22,9 @@ organizations:
 
 interests:
   - Behavioral Economics
-  - Experiments
-  - Machine Learning
-  - Causal Inference
+  - Experimental Economics
+  - Science of Science
+  - AI Agents
 
 
 education:
