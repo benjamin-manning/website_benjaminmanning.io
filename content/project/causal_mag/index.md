@@ -8,14 +8,14 @@ tags:
 date: "2024-02-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: 
+external_link: "https://journals.sagepub.com/doi/full/10.1177/09637214241268222"
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
 links:
 url_code: ""
-url_pdf: ""
+url_pdf: "https://journals.sagepub.com/doi/full/10.1177/09637214241268222"
 url_slides: ""
 url_video: ""
 
