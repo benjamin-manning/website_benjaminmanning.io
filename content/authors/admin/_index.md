@@ -21,10 +21,10 @@ organizations:
 # bio: 
 
 interests:
-  - Behavioral Economics
+  - AI Agents
   - Experimental Economics
   - Science of Science
-  - AI Agents
+  - Behavioral Economics
 
 
 education:
@@ -78,7 +78,7 @@ I'm a 3rd year PhD candidate at MIT in the [IT group at Sloan](https://mitsloan.
 
 Before I continue, let me state how **wildly** narcissistic it is that I, along with most academics, have these self-aggrandizing websites. Now, back to me! 
 My research primarily focuses on the intersection of behavioral economics, causal inference, and machine learning.
-I am most interested in (1) how and when we can learn more about humans with the help of generative AI and new computational methods, (2) the capacity of AI agents to accurately encode human preferences, and (3) the impact of using AI agents to facilitate the exchange of information, both among other agents and with humans.
+I am most interested in (1) how and when we can learn more about humans with the help of generative AI and new computational methods, (2) the capacity of AI agents to accurately encode human preferences, and (3) the impacts of using AI agents to facilitate the exchange of information, both among other agents and with humans.
 
 In my free time, you can find me writing almost funny vignettes on my website, hiking slowly, cycling through traffic, kicking a soccer ball, reading/napping, playing Catan, traveling, or simply hanging with friends. I also have a thing for [ice cream](https://benjaminmanning.substack.com/p/im-almost-30-and-im-still-writing).
 
