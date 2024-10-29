@@ -3,7 +3,7 @@ title: Effect Size Magnification. No Variable is as Important as the One You’r
 design:
   font_size: XS
 Summary: |
-  With Linnea Gandhi and Angela Duckworth. 
+  With Linnea Gandhi and Angela Duckworth. <br>
   _Current Directions in Psychological Science - 2024_.
 
 tags:
