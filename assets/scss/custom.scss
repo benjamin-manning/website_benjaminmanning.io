@@ -1,0 +1,26 @@
+/* Custom styles for projects section */
+
+/* Target the main projects container */
+.project-card {
+  font-size: 0.875rem; /* Makes font smaller than default */
+}
+
+/* Project title */
+.project-card .card-title {
+  font-size: 1rem;
+}
+
+/* Project summary/description */
+.project-card .card-text {
+  font-size: 0.75rem;
+}
+
+/* Project tags */
+.project-card .card-text.project-tags {
+  font-size: 0.7rem;
+}
+
+/* Links within projects */
+.project-card a {
+  font-size: 0.875rem;
+}
