@@ -1,7 +1,7 @@
 ---
 title: "Large Language Models as Simulated Economic Agents: What we can learn from Homo Silicus"
 Summary: |
-  With John J. Horton and Apostolos Filippas. <be>
+  With John J. Horton and Apostolos Filippas. <br>
  _The Review of Economics and Statistics - Revise and Resubmit_.
 # summary: asdf
 
