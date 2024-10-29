@@ -1,7 +1,7 @@
 ---
 title: Effect Size Magnification. No Variable is as Important as the One You’re Thinking About—While You’re Thinking About It
 design:
-  font_size: S
+  font_size: XS
 Summary: With Linnea Gandhi and Angela Duckworth. _Current Directions in Psychological Science, Forthcoming_.
 # summary:  Includes data cleaning, data visualization, regression, ANOVA, factor analysis, mediation, moderation, and group testing.
 
