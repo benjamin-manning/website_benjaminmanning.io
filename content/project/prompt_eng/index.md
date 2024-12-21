@@ -1,5 +1,5 @@
 ---
-title: "As Generative Models Improve, People Adapt Their Prompts"
+title: "As Generative Models Improve, We Must Adapt Our Prompts"
 Summary: |
  With Eaman Jahani, Joe Zhang, Hong-Yi TuYe, Mohammed Alsobay, Christos Nicolaides, Siddharth Suri, and David Holtz. <br> 
  _Under Review_.
