@@ -27,8 +27,8 @@
 
 [[main]]
     name = "Disclosures"
-    url: "#Disclosures"
-    weight: 50  # Controls order in menu
+    url = "#Disclosures"
+    weight = 50  # Controls order in menu
 
 [[main]]
   name = "Substack"
