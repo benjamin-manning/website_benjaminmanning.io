@@ -25,12 +25,17 @@
   url = "files/Benjamin_Manning_Resume.pdf"
   weight = 40
 
+main:
+[[main]]e: Disclosures
+    url: "#Disclosures"
+    weight: 50  # Controls order in menu
+
 [[main]]
   name = "Substack"
   url = "https://benjaminmanning.substack.com/"
-  weight = 50
+  weight = 60
  
 [[main]]
   name = "My Reading List"
   url = "https://www.goodreads.com/review/list/150804789-benjamin-manning?shelf=read"
-  weight = 60
+  weight = 70
