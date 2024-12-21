@@ -81,9 +81,6 @@ I am primarily an economist who studies AI agents in various settings using expe
 
 In my free time, you can find me writing almost funny vignettes on my website, hiking slowly, cycling through traffic, kicking a soccer ball, reading/napping, playing Catan, traveling, or simply hanging with friends. I also have a thing for [ice cream](https://benjaminmanning.substack.com/p/im-almost-30-and-im-still-writing).
 
-P.S. and P.S.A. As an (aspiring) academic, I have strong opinions about almost everything. Despite what some describe as an "obstinate" personality, I advocate for viewpoint diversity (even viewpoints I hate, of which there are many, so many). As such, I am a member of Jonathan Haidt’s [Heterodox Academy](https://heterodoxacademy.org), a nonpartisan, nonprofit group dedicated to promoting open inquiry, viewpoint diversity, and constructive disagreement in higher education. Please message me if you have questions about this organization or my stated membership.
-
-
 
 
 
