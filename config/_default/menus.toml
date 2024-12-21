@@ -27,7 +27,7 @@
 
 [[main]]
     name = "Disclosures"
-    url = "#Disclosures"
+    url = "#disclosures"
     weight = 50  # Controls order in menu
 
 [[main]]
