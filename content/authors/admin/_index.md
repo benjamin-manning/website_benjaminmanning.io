@@ -24,6 +24,7 @@ interests:
   - Behavioral Economics
   - Human-AI Interaction
   - Scientific Discovery
+  - Market Design
 
 
 education:
