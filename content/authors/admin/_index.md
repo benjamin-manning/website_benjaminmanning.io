@@ -21,10 +21,9 @@ organizations:
 # bio: 
 
 interests:
-  - AI Agents
-  - Science of Science
-  - Experimental Economics
   - Behavioral Economics
+  - Human-AI Interaction
+  - Scientific Discovery
 
 
 education:
