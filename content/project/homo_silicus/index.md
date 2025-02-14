@@ -17,7 +17,7 @@ image:
 links:
 url_code: ""
 url_pdf: "https://www.nber.org/papers/w31122"
-url_slides: "https://docs.google.com/presentation/d/1KnrJFpe8iQqlLVbbi_l1IIwnvgD6E-eHDj5C_ZJBJzc/edit#slide=id.p"
+url_slides: ""
 url_video: ""
 
 # Slides (optional).
