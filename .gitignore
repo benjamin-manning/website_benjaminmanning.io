@@ -5,3 +5,10 @@
 /resources/
 public/
 *.DS_Store
+
+static/files/Benjamin_Manning_Resume.aux
+static/files/Benjamin_Manning_Resume.fdb_latexmk
+static/files/Benjamin_Manning_Resume.fls
+static/files/Benjamin_Manning_Resume.log
+static/files/Benjamin_Manning_Resume.out
+static/files/Benjamin_Manning_Resume.synctex.gz
