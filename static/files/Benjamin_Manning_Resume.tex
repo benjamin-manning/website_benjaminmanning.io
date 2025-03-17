@@ -1,164 +1,111 @@
-\documentclass[11.25pt]{article}
-\usepackage{datetime}
+\documentclass[margin,line,pifont,palatino,courier, 9pt]{res}
 
-\usepackage[left=.75in, right=.75in, top=1in, bottom=1in]{geometry}
-\usepackage{enumitem}
+\usepackage{pifont}
+\usepackage[latin1] {inputenc}
+\topmargin -.5in
+\oddsidemargin -.35in      % Reduce left margin
+\evensidemargin -.35in     % Reduce right margin for even pages (if any)
+\textwidth=5.75in 
+\textheight=9.5in 
 \usepackage{hyperref}
-\usepackage{titlesec}
-\usepackage{times}
-\renewcommand{\familydefault}{\rmdefault}
-
-% Redefine the section heading style
-\titleformat{\section}
-{\normalfont\fontsize{13}{3}\bfseries}{\thesection}{.5em}{}
-
-% Setup hyperref to color links blue
+\usepackage[svgnames]{xcolor} 
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0pt}
+\fancyhf{}
 \hypersetup{
 colorlinks=true, % Set to true to color the text of the links and false to create colored boxes around the text
 linkcolor=blue,  % Color for internal links
 filecolor=magenta, % Color for URLs which open local files
-urlcolor=blue    % Color for URL links
+urlcolor=violet    % Color for URL links
 }
-
-% Define custom date format
-\newdateformat{monthyeardate}{%
-\monthname[\THEMONTH] \THEYEAR}
-
-% \tiny
-% \scriptsize
-% \footnotesize
-% \small
-% \normalsize (This is the default size)
-% \large
-% \Large (Note the capital 'L')
-% \LARGE
-% \huge
-% \Huge (Note the capital 'H') 
-
-% Define a custom command for a cross symbol footnote
+\linespread{1} 
 
 \begin{document}
 
-\pagestyle{empty} % Remove page numbers
+\name{Benjamin S. Manning \vspace*{.05in}}
+\begin{resume}
 
-% Header
-\begin{center}
-{\huge \textbf{Benjamin S. Manning}}\\
-\vspace{2mm}
+
 \large
-bmanning (at) mit.edu $\diamond$ \href{https://benjaminmanning.io/}{benjaminmanning.io}\\
-% 100 Main Street, E62-390 $\diamond$ Cambridge, MA 02142\\
-\vspace{5mm}
-\large
-$\diamond$ Human-AI Interaction $\diamond$ Behavioral Economics $\diamond$ Scientific Discovery $\diamond$
-\vspace{2mm}
-\end{center}
 
 
-\newenvironment{myindentpar}[1]%
-{%
-\begin{list}{}%
-{%
-  \setlength{\leftmargin}{#1}% Set the indentation
-  \setlength{\itemsep}{0pt}% Set the space between items
-  \setlength{\parskip}{-1pt}% Set the space between paragraphs
-  \setlength{\topsep}{0pt}% Set the space before and after the list
-  \setlength{\parsep}{-5pt}% Set the space between paragraphs within an item
-}%
-\item[]%
-}%
-{%
-\end{list}%
-}
+\section{\sc Contact}
+bmanning (at) mit.edu $\diamond$ \href{https://benjaminmanning.io/}{benjaminmanning.io}
 
-% \vspace{-1cm}
-% Education
-\section*{Education} \vspace{-1mm} \hrule
-\vspace{3mm}
-Ph.D. Management Science, Information Technology, \textbf{MIT} \hfill 2027 (Expected) \\
-\indent \textit{Committee:} \href{ahttps://john-joseph-horton.com/}{John J. Horton} (Chair); \href{https://www.hks.harvard.edu/faculty/christopher-norio-avery}{Christopher Avery}\\
-S.M. Management Research, \textbf{MIT} \hfill 2024\\
-M.P.P. Economic \& Social Policy, \textbf{Harvard University} \hfill 2021\\
-B.A. Mathematics (College Honors), \textbf{Washington University in St. Louis} \hfill 2017\\
+\section{\sc Education}
+{\bf Massachusetts Institute of Technology}\\
+Ph.D., Management Science, Information Technology \hfill 2027 (expected) \\
+S.M., Management Research \hfill 2024\vspace{2mm}\\
+{\bf Harvard University}\\
+M.P.P., Economic \& Social Policy \hfill 2021\vspace{2mm}\\
+{\bf Washington University in St. Louis}\\
+B.A. Mathematics (College Honors) \hfill 2017
 
-\vspace{-.45cm}
+\section{\sc References}
+\vspace{.15cm}
+\begin{tabular}{@{}p{2.6in}p{2.75in}}
+John J. Horton (Chair)& Christopher Norio Avery\\
+MIT Sloan School of Management & Harvard Kennedy School \\
+jjhorton (at) mit.edu & christopher\_avery (at) hks.harvard.edu\\
+& \\
+Angela L. Duckworth & \\
+The Wharton School at the & \\
+University of Pennsylvania & \\
+duckwort (at) wharton.upenn.edu & \\
+\end{tabular}
 
-\section*{Working Papers} \vspace{-1mm} \hrule
-\vspace{3mm}
-\noindent\emph{*Indicates first author or co-first author}\\
+\section{\sc Fellowships \\ \& Awards}
+Emergent Ventures Fast Grant (\$50,000) \hfill 2024 \\
+MIT Sloan PhD Fellowship ($\sim$\$250,000) \hfill 2022 \\
+Kosciuszko Foundation Tuition Scholarship (\$6,500) \hfill 2019 \& 2022 
 
-\noindent\textbf{*AI Agents Can Enable Superior Market Designs}\footnote{Draft available upon request}\\ 
-(with Gili Rusak \& John J. Horton)\\
-\textit{Under Review}\\
+\section{\sc Working Papers}
 
-\noindent\textbf{*Identifying Promising Hypotheses with AI Subjects}\footnotemark[\value{footnote}]\\ 
-(with John J. Horton)\\
-\textit{Working Paper}\\
+AI Agents Can Enable Superior Market Designs\footnote{Draft available upon request} (with Gili Rusak \& John J. Horton)
 
-\noindent\textbf{\href{https://arxiv.org/abs/2407.14333}{As Generative Models Improve, We Must Adapt Our Prompts}} \\ (with Eaman Jahani, Joe Zhang, Hong-Yi TuYe, Mohammed Alsobay, Christos Nicolaides, Siddharth
+Identifying Promising Hypotheses with AI Subjects\footnotemark[\value{footnote}] (with John J. Horton)
+
+\href{https://arxiv.org/abs/2407.14333}{As Generative Models Improve, We Must Adapt Our Prompts} (with Eaman Jahani, Joe Zhang, Hong-Yi TuYe, Mohammed Alsobay, Christos Nicolaides, Siddharth
 Suri, \& David Holtz)\\
-\textit{Under Review}\\
+\textit{Under Review}
 
-\noindent\textbf{\href{https://www.nber.org/papers/w32381}{*Automated Social Science: Language Models as Scientist and Subjects}}\\ 
-(with Kehang Zhu \& John J. Horton)\\
-\textit{The Quarterly Journal of Economics - Reject \& Resubmit}\\
+\href{https://www.nber.org/papers/w32381}{Automated Social Science: Language Models as Scientist and Subjects} (with John J. Horton \& Kehang Zhu)\\
+Reject \& Resubmit at \textit{The Quarterly Journal of Economics}
 
-\noindent\href{https://www.nber.org/papers/w31122}{\textbf{Large Language Models as Simulated Economic Agents: What Can We Learn from Homo Silicus?}} \\ (with John J. Horton \& Apostolos Filippas) \\
-\textit{The Review of Economics and Statistics - Revise \& Resubmit}\\
+\href{https://www.nber.org/papers/w31122}{Large Language Models as Simulated Economic Agents: What Can We Learn from Homo Silicus?} (with John J. Horton \& Apostolos Filippas)\\
+Revise \& Resubmit at \textit{The Review of Economics and Statistics}\\
+Extended abstract at \textit{ACM Conference on Economics \& Computation}, 2024
 
-\section*{Peer-Reviewed Publications} \vspace{-1mm} \hrule
-\vspace{3mm}
 
-\noindent \textbf{National Megastudy Shows that Email Nudges to Elementary School Teachers Boost Student Math Achievement, Particularly When Personalized} \\
-(with Angela L. Duckworth, Katherine L. Milkman, \& 26 others) \\
-\textit{Proceedings of the National Academy of Sciences - forthcoming}\\
+\section{\sc Publications}
+National Megastudy Shows that Email Nudges to Elementary School Teachers Boost Student Math Achievement, Particularly When Personalized 
+(with Angela L. Duckworth, Katherine L. Milkman, \& 26 others)\\
+\textit{Proceedings of the National Academy of Sciences,} Forthcoming
 
-\noindent \textbf{\href{https://journals.sagepub.com/doi/full/10.1177/09637214241268222}{Effect Size Magnification: No Variable is as Important as the One You’re Thinking About—While You’re Thinking About It}} \\
-(with Linnea Gandhi \& Angela L. Duckworth)\\
-\textit{Current Directions in Psychological Science - 2024}
+\href{https://journals.sagepub.com/doi/full/10.1177/09637214241268222}{Effect Size Magnification: No Variable is as Important as the One You're Thinking About---While You're Thinking About It} (with Linnea Gandhi \& Angela L. Duckworth)\\
+\textit{Current Directions in Psychological Science,} 2024
 
-\newpage \clearpage
+\section{\sc In Progress}
+From Simple Preferences to Proxies: How Do AI Agents Trade on Our Behalf?
+(with, John J. Horton, Crystal Qian, Vivian Tsai, James Wexler \& Kehang Zhu)\\
+A New Kind of Economic Agent
+(with Christopher Avery, Bruce Schneier, and Peter Zemsky)
 
-\section*{In Proceedings} \vspace{-1mm} \hrule
-\vspace{3mm}
-\href{https://dl.acm.org/doi/10.1145/3670865.3673513}{\textbf{Large Language Models as Simulated Economic Agents: What Can We Learn from Homo Silicus?}} \\ (with John J. Horton \& Apostolos Filippas) \\ \textit{ACM Transactions on Economics and Computation (EC) - 2024 (Extended Abstract)}
-
-\section*{Research in Progress} \vspace{-1mm} \hrule
-\vspace{3mm}
-
-\noindent\textbf{From Simple Preferences to Proxies: How Do AI Agents Trade on Our Behalf?}\\ 
-(with Hal Abelson, John J. Horton, Crystal Qian, Vivian Tsai, James Wexler \& Kehang Zhu)\\
-
-\noindent\textbf{A New Kind of Economic Agent}\\ 
-(with Christopher Avery, Bruce Schneier, and Peter Zemsky)\\
-
-\section*{Honors \& Awards} \hrule
-\vspace{3mm}
-\href{https://www.mercatus.org/emergent-ventures}{Mercatus Center Emergent Ventures Fast Grant} (\$50,000) \hfill 2024\\
-MIT Sloan PhD Fellowship $(\sim$ \$250,000) \hfill 2022 -- Present\\
-\href{https://thekf.org/scholarship/tuition-scholarships/}{Kosciuszko Foundation Scholarship} (\$6,500) \hfill 2019 \& 2022\\
-
-\vspace{-.45cm}
-
-\section*{Invited Workshop, Conference, \& Seminar Presentations\footnote{Includes coauthors presenting joint work}}  \vspace{-1mm} \hrule
-\vspace{3mm}
-\textbf{2025:} 
+\section{\sc Invited\\Talks}
+\textit{2025:} 
 AI, Mechanism Design and Human Behavior: Experiments and Theory 2025 NBER/CEME Decentralization Conference (\textit{Scheduled});
 Khipu Latin American Meeting in AI;
 Artificially Intelligent Social Science Workshop (Oxford);
-American Economic Association (AEA) Annual Meeting;\vspace{3mm}\\
-\textbf{2024:} Workshop on Information Systems and Economics (WISE);
+American Economic Association (AEA) Annual Meeting;\vspace{2mm}\\
+\textit{2024:} Workshop on Information Systems and Economics (WISE)\footnote{Co-author presenting joint work.};
 Conference on AI, Machine Learning, and Business Analytics;
 National Association for Business Economics (NABE) Tech Economics Conference; 
-Informs Annual Meeting;
-AI in Social Science Conference at the University of Chicago;
-Conference On Digital Experimentation (MIT CODE);
+Informs Annual Meeting\footnotemark[\value{footnote}];
 Machine Learning in Science (MLiS) Conference;
 Econometric Society Interdisciplinary Frontiers Conference on Economics and AI+ML; 
-NBER Summer Institute---Digital Economics and Artificial Intelligence;
-International Conference on Computational Social Science;
+NBER Summer Institute---Digital Economics and AI\footnotemark[\value{footnote}];
 ZEW Conference on the Economics of ICT;
-ACM Collective Intelligence 2024;
 International Conference of the French Association of Experimental Economics;
 Instacart Economics Team Seminar;
 Statistical Conference in E-Commerce Research;
@@ -167,90 +114,60 @@ International Meeting on Experimental and Behavioral Social Sciences;
 MIT IDE Annual Conference; 
 Microsoft Research AI, Cognition, and the Economy Workshop; 
 Measuring Development: AI, the Next Generation at the World Bank; 
-American Physical Society's March Meeting\vspace{3mm}\\
-\textbf{2023:} Interactive Causal Learning Conference; 
+\vspace{2mm}\\
+\textit{2023:} Interactive Causal Learning Conference; 
 Conference On Digital Experimentation (MIT CODE); 
 MIT CSAIL'S FutureTech Seminar;
 Talking to Machines AI Workshop at Oxford University
-\\
 
-\vspace{-.45cm}
+\section{\sc Teaching}
+\textit{QSTBA 830}: Business Experimentation and Causal Methods Guest Lecturer for Andrey Fradkin---Boston University, Spring 2025
 
-\section*{Teaching}  \vspace{-1mm} \hrule
-\vspace{3mm}
-% Guest Lecture at Boston University Questrom School of Business (\textit{Scheduled});
+\textit{BUSN 38802}: Managerial Decision Making; TA for Richard Thaler, University of Chicago---Booth London Campus, Fall 2024 (TA Rating: 4.7/5.0)
+\begin{itemize}
+    \item[\textbf{--}] ``Thanks Ben for such a wonderful class! Best TA I've had so far''
+    \item[\textbf{--}] ``Very clear in explaining concepts in an interesting `real world' way''
+\end{itemize}
 
+\textit{API-101Z}: Markets and Failures; TA for Christopher Avery, Harvard University, Spring 2022 (TA Rating: 4.6/5.0)
+\begin{itemize}
+    \item[\textbf{--}] ``Ben is an excellent teacher-explains concepts in a way which is not condescending but is easy to understand.''
+    \item[\textbf{--}] ``Humor, clarity, knowledge of the subject, and patience.''
+    \item[\textbf{--}] ``I think his greatest strength is his evident passion for the material, and his excitement is infectious.''
+\end{itemize}
 
-% Business Experimentation and Causal Methods | QSTBA 830
-
-\textbf{Guest Lecturer---QSTBA 830: Business Experimentation and Causal Methods}  \hfill Spring 2025\\
-Faculty Instructor: Andrey Fradkin; Level: MSBA students; Boston University\vspace{2mm}\\
-\textbf{TA---BUSN 38802: Managerial Decision Making (Rating: 4.7/5.0)} \hfill Fall 2024\\
-Faculty Instructor: Richard Thaler; Level: EMBA students; University of Chicago, Booth London Campus
-    \begin{myindentpar}{.35cm}
-    - \emph{``Thanks Ben for such a wonderful class! Best TA I've had so far''}\\
-    - \emph{``Very clear in explaining concepts in an interesting `real world' way''}\\
-    \end{myindentpar}
-\vspace{-2mm}
-\textbf{TA---API-101Z: Markets and Failures (Rating: 4.6/5.0)} \hfill Fall 2024\\
-Faculty Instructor: Christopher Avery; Level: MPP students; Harvard University
-     \begin{myindentpar}{.35cm}
-    - \emph{``Ben is an excellent teacher---explains concepts in a way which is not condescending but is easy to understand.''}\\
-    - \emph{``Humor, clarity, knowledge of the subject, and patience.''}\\
-    - \emph{``I think his greatest strength is his evident passion for the material, and his excitement is infectious.''}
-    \end{myindentpar}
-\textbf{TA---API-101Z: Markets and Failures (Rating: 4.3/5.0)} \hfill Fall 2023\\
-Faculty Instructor: Christopher Avery; Level: MPP students; Harvard University
-    \begin{myindentpar}{.35cm}
-    - \emph{``Far and away the best TA out there. Kind, thoughtful, and helped me develop the skills to independently answer questions''}\\
-    - \emph{``Great examples rooted in our day–to–day lives to help us understand conceptually difficult terms and make them sticky.''}\\
-    \end{myindentpar}
-\vspace{-1mm}
-\textbf{Pre-Doctoral Teaching}\\
-\vspace{1mm}OIDD-7050: Leading with Grit. Angela Duckworth (Penn---MBA) \hfill Spring 2022\\
-\vspace{1mm}PSYCH-399: Research Seminar. Angela Duckworth (Penn---Undergrad) \hfill Fall 2021, Spring 2022\\
-\vspace{1mm}API-500: Applied Intensive Policy Seminar. Joe Aldy \& Jack Donahue (Harvard---MPP)  \hfill Spring 2021\\
-%
-\vspace{1mm}API-202Z: Econometrics II. Teddy Svoronos (Harvard---MPP)  \hfill Spring 2021\\
-%
-\vspace{1mm}API-101Z: Markets and Failures. Christopher Avery (Harvard---MPP) \hfill Fall 2020\\
-%
-\vspace{1mm}DPI-610: Big Data for Politics. Benjamin Schneer (Harvard---MPP, MPA, Undergrad) \hfill Spring 2020\\
+\textit{API-101Z}: Markets and Failures; TA for Christopher Avery, Harvard University, Fall 2023 (TA Rating: 4.3/5.0)
+\begin{itemize}
+    \item[\textbf{--}] ``Far and away the best TA out there. Kind, thoughtful, and helped me develop the skills to independently answer questions''
+    \item[\textbf{--}] ``Great examples rooted in our day-to-day lives to help us understand conceptually difficult terms and make them sticky.''
+\end{itemize}
 
 
-\vspace{-.65cm}
+% \section{\sc Pre-Doctoral\\ Teaching}
 
-\section*{References}  \vspace{-1mm} \hrule
-\vspace{3mm}
-\textbf{John Horton} - Associate Professor of Information Technologies - MIT\\
-\textbf{Christopher Avery} - Professor of Public Policy - Harvard\\
-\textbf{Angela Duckworth} - Professor of Psychology - Penn\\
-\textbf{Colin Camerer} - Professor of Behavioral Economics - CalTech\\
-\textbf{ Sydney Finkelstein} - Professor Of Management - Dartmouth \\
-\textbf{Jon Rogowski} - Professor of Political Science - UChicago\\
+% \textit{OIDD-7050}: Leading with Grit, TA for \textbf{Angela Duckworth}, University of Pennsylvania---The Wharton School, Spring 2022\\
+% \textit{API-500}: Applied Intensive Policy Seminar, TA for \textbf{Joe Aldy \& Jack Donahue}, Harvard Kennedy School, Spring 2021\\
+% \textit{API-202Z}: Econometrics II, TA for \textbf{Teddy Svoronos}, Harvard Kennedy School, Spring 2021\\
+% \textit{API-101Z}: Markets and Failures, TA for \textbf{Christopher Avery}, Harvard Kennedy School, Fall 2020\\
+% \textit{DPI-610}: Big Data for Politics, TA for \textbf{Benjamin Schneer}, Harvard Kennedy School Spring 2020
 
-\vspace{-.45cm}
+\section{\sc Affiliations}
+\href{https://ide.mit.edu/}{MIT Initiative on the Digital Economy}, \href{https://heterodoxacademy.org/}{Heterodox Academy}
 
-\section*{Professional Experience}  \vspace{-1mm} \hrule
-\vspace{3mm}
+\section{\sc Professional Service}
+\textit{Conference on Digital Experimentation (CODE), ACM-Collective Intelligence, International Conference on Information Systems (ICIS), Sociological Science, International Conference on Computational Social Science (IC$^2$S$^2$)}
 
-\textbf{Research Assistant}, John Horton (MIT) \hfill 2023 - 2024\\
-\textbf{Research Assistant}, Angela Duckworth (Penn) \hfill 2021 - 2022\\
-\textbf{Research Assistant}, Jon Rogowski (UChicago) \hfill 2020 - 2022\\
-\textbf{Research Assistant}, Sydney Finkelstein (Dartmouth) \hfill 2018 - 2019\\
-\textbf{High School Math Teacher}, Phetpittayakom School, Thailand \hfill 2017 - 2018\\
-\textbf{Execution Trading Intern}, Optiver, Chicago \hfill 2016
+\section{\sc Employment}
+\textbf{University of Pennsylvania} \hfill 2021 - 2022 \\
+Research Assistant for Angela Duckworth and Colin Camerer \vspace{2mm}\\
+\textbf{University of Chicago} \hfill 2020 - 2022\\
+Research Assistant for Jon Rogowski \vspace{2mm}\\
+\textbf{Dartmouth College} \hfill 2018 - 2019 \\
+Research Assistant for Sydney Finkelstein \vspace{2mm}\\
+\textbf{Phetpittayakom School} \hfill 2017 - 2018 \\
+High School Math Teacher in Thailand \vspace{2mm}\\
+\textbf{Optiver US LLC} \hfill 2016 \\
+Execution Trading Intern
 
-\section*{Affiliations} \hrule
-\vspace{3mm}
-\href{https://ide.mit.edu/}{\textit{MIT Initiative on the Digital Economy}}, Research Team\\
-\href{https://heterodoxacademy.org/}{\textit{Heterodox Academy}}, Member\\
-
-\vspace{-.45cm}
-
-\section*{Referee Service}  \vspace{-1mm} \hrule
-\vspace{3mm}
-Conference on Digital Experimentation (CODE), ACM-Collective Intelligence, International Conference on Information Systems (ICIS), Sociological Science, International Conference on Computational Social Science (IC$^2$S$^2$)\\
-
-
+\end{resume}
 \end{document}
