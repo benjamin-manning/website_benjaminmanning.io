@@ -1,12 +1,12 @@
 ---
 title: "Automated Social Science: Language Models as Scientist and Subjects"
 Summary: With Kehang Zhu and John J. Horton. <br> 
- _The Quarterly Journal of Economics - Reject and Resubmit_.
+ _Reject and Resubmit_ at the Quarterly Journal of Economics.
 # summary: asdf
 
 tags:
 - Completed
-date: "2024-06-03T00:00:00Z"
+date: "2024-04-03T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://www.nber.org/papers/w32381"

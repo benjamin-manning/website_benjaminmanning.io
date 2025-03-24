@@ -1,22 +1,24 @@
 ---
-title: "Large Language Models as Simulated Economic Agents: What we can learn from Homo Silicus"
-Summary: With John J. Horton and Apostolos Filippas. <br>
- _Revise and Resubmit_ at the Review of Economics and Statistics.
-# summary: asdf
+title: A national megastudy shows that email nudges to elementary school teachers boost student math achievement, particularly when personalized
+design:
+  font_size: XS
+Summary: |
+   with Angela L. Duckworth, Katherine L. Milkman, and 26 others). <br>
+  _Proceedings of the National Academy of Sciences_, 2024.
 
 tags:
 - Completed
-date: "2023-09-01T00:00:00Z"
+date: "2025-03-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.nber.org/papers/w31122"
+external_link: "https://www.pnas.org/doi/10.1073/pnas.2418616122"
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
 links:
 url_code: ""
-url_pdf: "https://www.nber.org/papers/w31122"
+url_pdf: "https://www.pnas.org/doi/10.1073/pnas.2418616122"
 url_slides: ""
 url_video: ""
 

@@ -4,11 +4,11 @@ design:
   font_size: XS
 Summary: |
   With Linnea Gandhi and Angela L. Duckworth. <br>
-  _Current Directions in Psychological Science - 2024_.
+  _Current Directions in Psychological Science_, 2024.
 
 tags:
 - Completed
-date: "2024-02-01T00:00:00Z"
+date: "2024-10-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://journals.sagepub.com/doi/full/10.1177/09637214241268222"
