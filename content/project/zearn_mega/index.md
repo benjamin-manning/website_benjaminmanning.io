@@ -2,8 +2,7 @@
 title: A national megastudy shows that email nudges to elementary school teachers boost student math achievement, particularly when personalized
 design:
   font_size: XS
-Summary: |
-   with Angela L. Duckworth, Katherine L. Milkman, and 26 others). <br>
+Summary: with Angela L. Duckworth, Katherine L. Milkman, and 26 others). <br>
   _Proceedings of the National Academy of Sciences_, 2024.
 
 tags:
