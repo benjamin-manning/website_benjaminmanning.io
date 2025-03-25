@@ -3,7 +3,7 @@ title: A national megastudy shows that email nudges to elementary school teacher
 design:
   font_size: XS
 Summary: with Angela L. Duckworth, Katherine L. Milkman, and 26 others). <br>
-  _Proceedings of the National Academy of Sciences_, 2024.
+  _Proceedings of the National Academy of Sciences_, 2025.
 
 tags:
 - Completed
