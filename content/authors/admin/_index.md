@@ -74,13 +74,13 @@ user_groups:
 - researcher
 
 ---
-**About:** I'm a 3rd year PhD candidate at MIT in the [IT group at Sloan](https://mitsloan.mit.edu/phd/program-overview/it). If you don't know what that means, you're not alone. My mom still can't describe it to her friends, so I've told her to say, "he studies how we can use AI to learn about human behavior and how AI makes choices for people.’’ If her friends have more questions, she's instructed to say, "he is primarily an economist who draws heavily on computer science.” If they keep asking, she runs away and hides.
+I'm a 3rd-year PhD candidate at MIT in the [IT group at Sloan](https://mitsloan.mit.edu/phd/program-overview/it). If you don't know what that means, you're not alone. My mom can't describe it to her friends, so I've told her to say, "he studies how we can use AI to learn about human behavior and how AI makes choices for people.’’ If her friends have more questions, she's instructed to say, "he is an economist who draws heavily on computer science.” If they keep asking, she runs away and hides.
 
 Before I continue, let me state how **wildly** narcissistic it is that I, along with most academics, have these self-aggrandizing websites. Now, back to me! 
 
-My research explores two complementary directions: (1) leveraging AI systems for social scientific discovery and (2) investigating how AI systems (or "AI agents") can effectively act on behalf of and at the direction of people—from representing our preferences to facilitating new types of markets and decision-making processes. Through this work, I develop new AI tools and study their implications when deployed in real-world settings. I am very fortunate to have this research supported in part by an [Emergent Ventures Grant](https://www.mercatus.org/emergent-ventures) from [Tyler Cowen](https://marginalrevolution.com/about) and the Mercatus Center.
+My research explores two complementary directions: (1) leveraging AI systems for social scientific discovery and (2) investigating how AI systems can act on behalf of and at the direction of humans—from representing our preferences to facilitating and affecting markets. I am very fortunate to have this research supported in part by an [Emergent Ventures Grant](https://www.mercatus.org/emergent-ventures) from [Tyler Cowen](https://marginalrevolution.com/about) and the Mercatus Center.
 
-In my free time, you can find me writing almost funny vignettes on my website, hiking slowly, cycling through traffic, kicking a soccer ball, reading/napping, playing Catan, traveling, or simply hanging with friends. I also have a thing for [ice cream](https://benjaminmanning.substack.com/p/im-almost-30-and-im-still-writing). 
+In my free time, you can find me writing almost funny vignettes on my website, hiking slowly, cycling through traffic, kicking a soccer ball, reading/napping, playing Catan, or simply hanging with friends. I also have a thing for [ice cream](https://benjaminmanning.substack.com/p/im-almost-30-and-im-still-writing). 
 
 
 
