@@ -6,7 +6,7 @@ Summary: With Kehang Zhu and John J. Horton. <br>
 
 tags:
 - Completed
-date: "2024-04-03T00:00:00Z"
+date: "2025-06-03T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://www.nber.org/papers/w32381"

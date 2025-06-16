@@ -7,7 +7,7 @@ Summary: with Angela L. Duckworth, Katherine L. Milkman, and 26 others). <br>
 
 tags:
 - Completed
-date: "2025-03-01T00:00:00Z"
+date: "2025-02-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://www.pnas.org/doi/10.1073/pnas.2418616122"

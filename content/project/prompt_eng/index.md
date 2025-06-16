@@ -2,12 +2,12 @@
 title: "As Generative Models Improve, We Must Adapt Our Prompts"
 Summary: |
  With Eaman Jahani, Joe Zhang, Hong-Yi TuYe, Mohammed Alsobay, Christos Nicolaides, Siddharth Suri, and David Holtz. <br> 
- _Under Review_.
+ _Revise and Resubmit_ at Information Systems Research.
 # summary: asdf
 
 tags:
 - Completed
-date: "2024-12-03T00:00:00Z"
+date: "2025-05-03T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://arxiv.org/abs/2407.14333"
