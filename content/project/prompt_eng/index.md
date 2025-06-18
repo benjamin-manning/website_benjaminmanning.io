@@ -1,5 +1,5 @@
 ---
-title: "As Generative Models Improve, We Must Adapt Our Prompts"
+title: "Prompt Adaptation as a Dynamic Complement in Generative AI Systems"
 Summary: |
  With Eaman Jahani, Joe Zhang, Hong-Yi TuYe, Mohammed Alsobay, Christos Nicolaides, Siddharth Suri, and David Holtz. <br> 
  _Revise and Resubmit_ at Information Systems Research.
