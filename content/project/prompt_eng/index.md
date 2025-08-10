@@ -16,6 +16,8 @@ image:
   focal_point: Smart
 
 links:
+- name: "Press: MIT Sloan's Ideas Made to Matter"
+  url: "https://mitsloan.mit.edu/ideas-made-to-matter/study-generative-ai-results-depend-user-prompts-much-models"
 url_code: ""
 url_pdf: "https://arxiv.org/abs/2407.14333"
 url_slides: ""
