@@ -1,6 +1,6 @@
 ---
 title: "Simulations that Generalize-to More\\than Half a Million Novel Games"
-Summary: With Kehang Zhu and John J. Horton. <br> 
+Summary: With John J. Horton. <br> 
  _Working paper_.
 # summary: asdf
 
