@@ -1,5 +1,5 @@
 ---
-title: "Simulations that Generalize-to More\\than Half a Million Novel Games"
+title: "Simulations that Generalize-to More than Half a Million Novel Games"
 Summary: With John J. Horton. <br> 
  _Working paper_.
 # summary: asdf
