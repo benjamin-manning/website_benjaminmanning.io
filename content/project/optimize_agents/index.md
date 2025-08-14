@@ -1,5 +1,5 @@
 ---
-title: "Simulations that Generalize-To More Than Half a Million Novel Games"
+title: "General Agents"
 Summary: With John J. Horton. <br> 
  _Working paper_.
 # summary: asdf
