@@ -18,6 +18,8 @@ image:
 links:
 - name: "Press: MIT Sloan's Ideas Made to Matter"
   url: "https://mitsloan.mit.edu/ideas-made-to-matter/study-generative-ai-results-depend-user-prompts-much-models"
+- name: "Press: Marginal Revolution"
+  url: "https://marginalrevolution.com/marginalrevolution/2025/08/monday-assorted-links-522.html"
 url_code: ""
 url_pdf: "https://arxiv.org/abs/2407.14333"
 url_slides: ""
