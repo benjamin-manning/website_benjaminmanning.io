@@ -29,13 +29,8 @@
     name = "Disclosures"
     url = "/disclosures/"
     weight = 50  # Controls order in menu
-
-[[main]]
-  name = "Substack"
-  url = "https://benjaminmanning.substack.com/"
-  weight = 60
- 
+    
 [[main]]
   name = "My Reading List"
   url = "https://www.goodreads.com/review/list/150804789-benjamin-manning?shelf=read"
-  weight = 70
+  weight = 60
