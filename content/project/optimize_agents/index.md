@@ -15,6 +15,8 @@ image:
   focal_point: Smart
 
 links:
+- name: "Press: Marginal Revolution"
+  url: "https://marginalrevolution.com/marginalrevolution/2025/09/pathbreaking-paper-on-ai-simulations-of-human-behavior.html"
 url_code: ""
 url_pdf: "https://benjaminmanning.io/files/optimize.pdf"
 url_slides: ""
