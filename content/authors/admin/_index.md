@@ -72,14 +72,15 @@ email: benjamin.scott.manning@gmail.com
 user_groups:
 - researcher
 
+# If you don't know what that means, you're not alone. My mom can't describe it to her friends, so I've told her to say, "he studies how we can use AI to learn about human behavior and how AI makes choices for people’’ If her friends have more questions, she's instructed to say, "he is an economist who draws heavily on computer science.” If they keep asking, she runs away and hides.
+
+# Before I continue, let me state how **wildly** narcissistic it is that I, along with most academics, have these self-aggrandizing websites. Now, back to me!
+
+# In my free time, you can find me writing almost funny vignettes on my website, hiking slowly, cycling through traffic, playing soccer, reading, napping, playing Catan, or simply hanging with friends. I also have a thing for [ice cream](https://benjaminmanning.substack.com/p/im-almost-30-and-im-still-writing). 
+
 ---
-I'm a 4th-year PhD candidate at MIT in the [IT group at Sloan](https://mitsloan.mit.edu/phd/program-overview/it). If you don't know what that means, you're not alone. My mom can't describe it to her friends, so I've told her to say, "he studies how we can use AI to learn about human behavior and how AI makes choices for people’’ If her friends have more questions, she's instructed to say, "he is an economist who draws heavily on computer science.” If they keep asking, she runs away and hides.
+I'm a 4th-year PhD candidate at MIT in the [IT group at Sloan](https://mitsloan.mit.edu/phd/program-overview/it). My research explores two complementary directions: (1) leveraging AI systems for social scientific discovery-both as proxy for human subjects and tool for generating and evaluating hypotheses-and (2) investigating how AI systems can act on behalf of and at the direction of humans—from representing our preferences to facilitating and affecting markets. I am very fortunate to have this research supported in part by an [Emergent Ventures Grant](https://www.mercatus.org/emergent-ventures).
 
-Before I continue, let me state how **wildly** narcissistic it is that I, along with most academics, have these self-aggrandizing websites. Now, back to me! 
-
-My research explores two complementary directions: (1) leveraging AI systems for social scientific discovery-both as proxy for human subjects and tool for generating and evaluating hypotheses-and (2) investigating how AI systems can act on behalf of and at the direction of humans—from representing our preferences to facilitating and affecting markets. I am very fortunate to have this research supported in part by an [Emergent Ventures Grant](https://www.mercatus.org/emergent-ventures).
-
-In my free time, you can find me writing almost funny vignettes on my website, hiking slowly, cycling through traffic, playing soccer, reading, napping, playing Catan, or simply hanging with friends. I also have a thing for [ice cream](https://benjaminmanning.substack.com/p/im-almost-30-and-im-still-writing). 
 
 
 
