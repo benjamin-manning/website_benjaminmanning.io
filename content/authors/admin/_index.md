@@ -22,9 +22,9 @@ organizations:
 
 interests:
   - Human-AI Interaction
-  - Scientific Discovery
+  - AI and Social Scientific Discovery
   - Market Design
-
+  - Behavioral Game Theory
 
 education:
   courses:
@@ -80,11 +80,6 @@ user_groups:
 
 ---
 I'm a 4th-year PhD candidate at MIT in the [IT group at Sloan](https://mitsloan.mit.edu/phd/program-overview/it). My research explores two complementary questions: (1) How can we use artificial intelligence to better understand humans? (2) As AI systems acting on behalf of humans proliferate, how can we use the tools of economics and information systems to study and improve market outcomes? I am very fortunate to have this research supported in part by an [Emergent Ventures Grant](https://www.mercatus.org/emergent-ventures).
-
-
-How can we use artificial intelligence to better understand humans?
-How can we use the tools of economics and information systems to study – and improve – market outcomes as AI systems acting on behalf of humans proliferate?
-
 
 
 
