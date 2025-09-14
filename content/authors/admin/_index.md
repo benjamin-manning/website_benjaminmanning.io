@@ -79,7 +79,11 @@ user_groups:
 # In my free time, you can find me writing almost funny vignettes on my website, hiking slowly, cycling through traffic, playing soccer, reading, napping, playing Catan, or simply hanging with friends. I also have a thing for [ice cream](https://benjaminmanning.substack.com/p/im-almost-30-and-im-still-writing). 
 
 ---
-I'm a 4th-year PhD candidate at MIT in the [IT group at Sloan](https://mitsloan.mit.edu/phd/program-overview/it). My research explores two complementary directions: (1) leveraging AI systems for social scientific discovery-both as proxy for human subjects and tool for generating and evaluating hypotheses-and (2) investigating how AI systems can act on behalf of and at the direction of humans—from representing our preferences to facilitating and affecting markets. I am very fortunate to have this research supported in part by an [Emergent Ventures Grant](https://www.mercatus.org/emergent-ventures).
+I'm a 4th-year PhD candidate at MIT in the [IT group at Sloan](https://mitsloan.mit.edu/phd/program-overview/it). My research explores two complementary questions: (1) How can we use artificial intelligence to better understand humans? (2) As AI systems acting on behalf of humans proliferate, how can we use the tools of economics and information systems to study and improve market outcomes? I am very fortunate to have this research supported in part by an [Emergent Ventures Grant](https://www.mercatus.org/emergent-ventures).
+
+
+How can we use artificial intelligence to better understand humans?
+How can we use the tools of economics and information systems to study – and improve – market outcomes as AI systems acting on behalf of humans proliferate?
 
 
 
