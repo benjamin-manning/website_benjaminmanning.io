@@ -8,7 +8,7 @@ summary: "Disclosures"
 
 I am an advisor to and have a significant financial interest in [Expected Parrot](https://www.expectedparrot.com/).
 
-I have personally received research grant money from OpenAI, [Schmidt Sciences](https://www.schmidtsciences.org/), and [the Mercatus Center](https://www.mercatus.org/)
+I have personally received research grant money from OpenAI, [Schmidt Sciences](https://www.schmidtsciences.org/), and the [Mercatus Center](https://www.mercatus.org/)
 
 I have also contributed to research funded by Microsoft, Upwork, Dropbox, and Google.
 
