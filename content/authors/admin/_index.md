@@ -21,10 +21,9 @@ organizations:
 # bio: 
 
 interests:
-  - Human-AI Interaction
-  - AI and Social Scientific Discovery
+  - AI Behavioral Science
   - Market Design
-  - Behavioral Game Theory
+  - Game Theory
 
 education:
   courses:
