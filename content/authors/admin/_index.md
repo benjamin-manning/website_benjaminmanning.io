@@ -23,7 +23,7 @@ organizations:
 interests:
   - AI Behavioral Science
   - Market Design
-  - Behavioral and Experimental Economics
+  - Behavioral & Experimental Economics
 
 education:
   courses:
