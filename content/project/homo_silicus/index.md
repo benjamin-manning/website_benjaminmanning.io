@@ -1,15 +1,15 @@
 ---
-title: "Large Language Models as Simulated Economic Agents: What we can learn from Homo Silicus"
+title: "Large Language Models as Simulated Economic Agents: What we can learn from Homo Silicus [NEW!]"
 Summary: With John J. Horton and Apostolos Filippas. <br>
  _Revise and Resubmit_ at the Review of Economics and Statistics.
 # summary: asdf
 
 tags:
 - Completed
-date: "2025-03-01T00:00:00Z"
+date: "2025-08-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.nber.org/papers/w31122"
+external_link: "https://benjaminmanning.io/files/homo_silicus.pdf"
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
