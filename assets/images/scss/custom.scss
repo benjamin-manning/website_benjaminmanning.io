@@ -17,10 +17,3 @@
 .section-heading h1 {
   font-size: 1.5rem !important;
 }
-
-/* Add red [NEW!] badge for homo_silicus project */
-a[href*="/project/homo_silicus"] .article-title::after {
-  content: " [NEW!]";
-  color: #ff0000;
-  font-weight: bold;
-}

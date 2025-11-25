@@ -1,5 +1,5 @@
 ---
-title: "The Coasean Singularity? Demand, Supply, and Market Design with AI Agents"
+title: "The Coasean Singularity? Demand, Supply, and Market Design with AI Agents [NEW!]"
 Summary: With Peyman Shahidi, Gili Rusak, Andrey Fradkin, and John J. Horton. <br> 
  _Forthcoming_ chapter in The Economics of Transformative AI
 

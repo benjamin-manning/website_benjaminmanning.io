@@ -9,7 +9,7 @@ tags:
 date: "2025-08-03T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://benjaminmanning.io/files/optimize.pdf"
+external_link: "https://benjaminmanning.io/files/optimize.pdf [NEW!]"
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
