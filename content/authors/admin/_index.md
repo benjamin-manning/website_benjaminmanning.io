@@ -78,7 +78,7 @@ user_groups:
 # In my free time, you can find me writing almost funny vignettes on my website, hiking slowly, cycling through traffic, playing soccer, reading, napping, playing Catan, or simply hanging with friends. I also have a thing for [ice cream](https://benjaminmanning.substack.com/p/im-almost-30-and-im-still-writing). 
 
 ---
-I'm a 4th-year PhD candidate at MIT in the [IT group at Sloan](https://mitsloan.mit.edu/phd/program-overview/it). My research explores two complementary questions: (1) How can we use artificial intelligence to better understand humans? (2) As AI systems acting on behalf of humans proliferate, how can we use the tools of economics and information systems to study and improve market outcomes? [Here](https://mitsloan.mit.edu/programs/phd/phd-student-benjamin-manning-explores-how-ai-will-shape-future-work) is a recent MIT article highlighting and summarizing some of this work. 
+I'm a 4th-year PhD candidate at MIT in the [IT group at Sloan](https://mitsloan.mit.edu/phd/program-overview/it). My research explores two complementary questions: (1) How can we use artificial intelligence to better understand humans? (2) As AI systems acting on behalf of humans proliferate, how can we use the tools of economics and information systems to study and improve market outcomes? [Here](https://news.mit.edu/2025/benjamin-manning-how-ai-will-shape-future-work-1201) is a recent MIT article highlighting and summarizing some of this work. 
 
 I am very fortunate to have my research supported in part by [Emergent Ventures](https://www.mercatus.org/emergent-ventures) and [Schmidt Sciences](https://www.schmidtsciences.org/ai-at-work/).
 
