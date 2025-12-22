@@ -1,5 +1,5 @@
 ---
-title: "General Social Agents [NEW!]"
+title: "General Social Agents"
 Summary: With John J. Horton. <br> 
  _Working paper_.
 # summary: asdf
