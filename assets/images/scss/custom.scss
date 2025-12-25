@@ -17,3 +17,21 @@
 .section-heading h1 {
   font-size: 1.5rem !important;
 }
+
+/* Make project titles bold but not oversized */
+.portfolio .article-title,
+.project-card .article-title,
+.card .article-title,
+.portfolio h2.article-title,
+.portfolio h3.article-title {
+  font-size: 1rem !important;
+  font-weight: bold;
+}
+
+/* Target project summary/detail view titles */
+.portfolio .summary-title,
+.portfolio .media-body h3,
+.portfolio .media-body h2 {
+  font-size: 1rem !important;
+  font-weight: bold;
+}
