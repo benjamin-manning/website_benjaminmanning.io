@@ -19,19 +19,16 @@
 }
 
 /* Make project titles bold but not oversized */
+.article-title,
+h2.article-title,
+h3.article-title,
 .portfolio .article-title,
-.project-card .article-title,
-.card .article-title,
-.portfolio h2.article-title,
-.portfolio h3.article-title {
+#Research h2,
+#Research h3,
+.wg-portfolio h2,
+.wg-portfolio h3,
+section h2.article-title,
+section h3.article-title {
   font-size: 1rem !important;
-  font-weight: bold;
-}
-
-/* Target project summary/detail view titles */
-.portfolio .summary-title,
-.portfolio .media-body h3,
-.portfolio .media-body h2 {
-  font-size: 1rem !important;
-  font-weight: bold;
+  font-weight: bold !important;
 }
