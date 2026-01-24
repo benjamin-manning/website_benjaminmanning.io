@@ -5,7 +5,7 @@ Summary: With Kehang Zhu and John J. Horton. <br>
 # summary: asdf
 
 tags:
-- Completed
+- Working Paper
 date: "2025-06-03T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

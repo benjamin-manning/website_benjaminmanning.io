@@ -6,7 +6,7 @@ Summary: with Angela L. Duckworth, Katherine L. Milkman, and 26 others). <br>
   _Proceedings of the National Academy of Sciences_, 2025.
 
 tags:
-- Completed
+- Peer-Reviewed
 date: "2025-02-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

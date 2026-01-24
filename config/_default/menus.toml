@@ -10,13 +10,9 @@
   
 [[main]]
   name = "Research"
-  url = "#selected_papers"
+  url = "/research/"
   weight = 20
   
-[[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 30
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -26,11 +22,16 @@
   weight = 40
 
 [[main]]
+  name = "Google Scholar"
+  url = "https://scholar.google.com/citations?user=teSF3_AAAAAJ&hl=en&oi=sra"
+  weight = 45
+
+[[main]]
     name = "Disclosures"
     url = "/disclosures/"
     weight = 50  # Controls order in menu
     
 [[main]]
-  name = "My Reading List"
+  name = "Reading List"
   url = "https://www.goodreads.com/review/list/150804789-benjamin-manning?shelf=read"
   weight = 60

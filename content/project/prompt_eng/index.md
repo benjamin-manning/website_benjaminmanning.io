@@ -6,7 +6,7 @@ Summary: |
 # summary: asdf
 
 tags:
-- Completed
+- Working Paper
 date: "2025-05-03T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

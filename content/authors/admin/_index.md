@@ -47,7 +47,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: /#contact
+  link: mailto:benjamin.scott.manning@gmail.com
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/benjamin-manning-ab2735b2/

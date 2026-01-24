@@ -4,7 +4,7 @@ Summary: With Peyman Shahidi, Gili Rusak, Andrey Fradkin, and John J. Horton. <b
  _Forthcoming_ chapter in The Economics of Transformative AI
 
 tags:
-- Completed
+- Book Chapter
 date: "2025-07-03T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

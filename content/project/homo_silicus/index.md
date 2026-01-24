@@ -5,7 +5,7 @@ Summary: With John J. Horton and Apostolos Filippas. <br>
 # summary: asdf
 
 tags:
-- Completed
+- Working Paper
 date: "2025-08-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

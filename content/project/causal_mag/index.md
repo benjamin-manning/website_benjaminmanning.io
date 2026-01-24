@@ -7,7 +7,7 @@ Summary: |
   _Current Directions in Psychological Science_, 2024.
 
 tags:
-- Completed
+- Peer-Reviewed
 date: "2024-10-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
