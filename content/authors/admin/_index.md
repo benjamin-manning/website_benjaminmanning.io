@@ -78,11 +78,11 @@ user_groups:
 # In my free time, you can find me writing almost funny vignettes on my website, hiking slowly, cycling through traffic, playing soccer, reading, napping, playing Catan, or simply hanging with friends. I also have a thing for [ice cream](https://benjaminmanning.substack.com/p/im-almost-30-and-im-still-writing). 
 
 ---
-I'm a 4th-year PhD candidate at MIT in the [IT group at Sloan](https://mitsloan.mit.edu/phd/program-overview/it). My research asks two complementary questions: (1) How can we use AI to better understand humans? (2) As AI systems increasingly act on people’s behalf, how do markets change—and how can we improve the resulting outcomes? I draw on methodological tools from economics, information systems, and computer science to study these questions.
+I'm a 4th-year PhD candidate at MIT in the Information Technology group at Sloan. My research asks two complementary questions: (1) How can we use AI to better understand humans? (2) As AI systems increasingly act on people’s behalf, how do markets change—and how can we improve the resulting outcomes? I draw on methodological tools from economics, information systems, and computer science to study these questions.
 
-[Here](https://news.mit.edu/2025/benjamin-manning-how-ai-will-shape-future-work-1201) is a recent MIT news article highlighting and summarizing some of my work. 
+Here are links to my [[Research]](/research/), [[CV]](/files/Benjamin_Manning_Resume.pdf), and [[Google Scholar]](https://scholar.google.com/citations?user=teSF3_AAAAAJ&hl=en&oi=sra). This [[MIT news article]](https://news.mit.edu/2025/benjamin-manning-how-ai-will-shape-future-work-1201) provides a summary of my work.
 
-I am very fortunate to have my research supported in part by [Emergent Ventures](https://www.mercatus.org/emergent-ventures) and [Schmidt Sciences](https://www.schmidtsciences.org/ai-at-work/).
+I am very fortunate to have my research supported in part by Emergent Ventures and Schmidt Sciences.
 
 
 
