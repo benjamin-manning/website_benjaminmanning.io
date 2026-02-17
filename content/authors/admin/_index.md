@@ -71,14 +71,14 @@ email: benjamin.scott.manning@gmail.com
 user_groups:
 - researcher
 
-# If you don't know what that means, you're not alone. My mom can't describe it to her friends, so I've told her to say, "he studies how we can use AI to learn about human behavior and how AI makes choices for people’’ If her friends have more questions, she's instructed to say, "he is an economist who draws heavily on computer science.” If they keep asking, she runs away and hides.
+# If you don't know what that means, you're not alone. My mom can't describe it to her friends, so I've told her to say, "he studies how we can use AI to learn about human behavior and how AI makes choices for people’’ If her friends have more questions, she's instructed to say, "he is a social scientist who draws heavily on computer science.” If they keep asking, she runs away and hides.
 
 # Before I continue, let me state how **wildly** narcissistic it is that I, along with most academics, have these self-aggrandizing websites. Now, back to me!
 
 # In my free time, you can find me writing almost funny vignettes on my website, hiking slowly, cycling through traffic, playing soccer, reading, napping, playing Catan, or simply hanging with friends. I also have a thing for [ice cream](https://benjaminmanning.substack.com/p/im-almost-30-and-im-still-writing). 
 
 ---
-I'm a 4th-year PhD candidate at MIT in the Information Technology group at Sloan. My research asks two complementary questions: (1) How can we use AI to better understand humans? (2) As AI systems increasingly act on people’s behalf, how do markets change—and how can we improve the resulting outcomes? I draw on methodological tools from economics, information systems, and computer science to study these questions.
+I'm a 4th-year PhD candidate at MIT in the Information Technology group at Sloan. My research asks two complementary questions: (1) How can we use AI to better understand humans? (2) As AI systems increasingly act on people’s behalf, how do markets change—and how can we improve the resulting outcomes? I draw on methodological tools from economics, psychology, and computer science to study these questions.
 
 Here are links to my [[Research]](/research/), [[CV]](/files/Benjamin_Manning_Resume.pdf), and [[Google Scholar]](https://scholar.google.com/citations?user=teSF3_AAAAAJ&hl=en&oi=sra). This [[MIT news article]](https://news.mit.edu/2025/benjamin-manning-how-ai-will-shape-future-work-1201) provides a summary of my work.
 
