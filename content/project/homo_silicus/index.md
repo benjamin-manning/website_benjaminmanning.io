@@ -9,14 +9,14 @@ tags:
 date: "2025-08-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://benjaminmanning.io/files/homo_silicus.pdf"
+external_link: "https://www.nber.org/papers/w31122"
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
 links:
 url_code: ""
-url_pdf: "https://benjaminmanning.io/files/homo_silicus.pdf"
+url_pdf: "https://www.nber.org/papers/w31122"
 url_slides: ""
 url_video: ""
 
