@@ -33,5 +33,66 @@ section h3.article-title {
   font-weight: bold !important;
 }
 
+/* Tighten spacing on research/widget pages */
+.home-section {
+  padding: 15px 0 0 0 !important;
+}
 
+.home-section:first-of-type {
+  padding-top: 25px !important;
+}
 
+.section-heading {
+  margin-bottom: 5px !important;
+}
+
+.isotope-item {
+  margin-bottom: 2px !important;
+}
+
+.card-simple {
+  margin-bottom: 0 !important;
+  padding-bottom: 2px !important;
+}
+
+/* Reduce container side margins */
+.universal-wrapper {
+  max-width: 900px !important;
+  padding-left: 15px !important;
+  padding-right: 15px !important;
+}
+
+/* Tighten the two-column layout gap */
+.col-12.col-lg-8 {
+  padding-left: 10px !important;
+}
+
+.row {
+  margin-bottom: 0 !important;
+}
+
+/* Reduce spacing between portfolio items */
+.portfolio .isotope-item {
+  margin-bottom: 2px !important;
+}
+
+/* Tighten paragraph/summary spacing within cards */
+.card-simple p,
+.card-simple .article-style {
+  margin-bottom: 2px !important;
+}
+
+/* Red outline (stenciled) award badge */
+.badge-award {
+  display: inline-block;
+  border: 1px solid #dc3545;
+  color: #dc3545 !important;
+  background-color: transparent;
+  font-size: 0.7rem;
+  font-weight: 600;
+  padding: 2px 8px;
+  border-radius: 3px;
+  cursor: default;
+  pointer-events: none;
+  margin-top: 2px;
+}

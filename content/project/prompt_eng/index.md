@@ -2,11 +2,11 @@
 title: "Prompt Adaptation as a Dynamic Complement in Generative AI Systems"
 Summary: |
  With Eaman Jahani, Joe Zhang, Hong-Yi TuYe, Mohammed Alsobay, Christos Nicolaides, Siddharth Suri, and David Holtz. <br> 
- _Revise and Resubmit_ at Information Systems Research.
+ _Forthcoming_ at Information Systems Research.
 # summary: asdf
 
 tags:
-- Working Paper
+- Peer-Reviewed
 date: "2025-05-03T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
