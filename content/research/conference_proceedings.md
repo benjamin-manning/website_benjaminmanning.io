@@ -3,7 +3,7 @@ widget: portfolio
 headless: true
 weight: 35
 
-title: Published Conference Proceedings
+title: Refereed Conference Proceedings
 subtitle: ''
 
 content:
