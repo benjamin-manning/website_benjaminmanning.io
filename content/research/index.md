@@ -1,5 +1,5 @@
 ---
 title: Research
 type: widget_page
-headless: false
+headless: true
 ---

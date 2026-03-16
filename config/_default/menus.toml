@@ -10,7 +10,7 @@
   
 [[main]]
   name = "Research"
-  url = "/research/"
+  url = "#working_papers"
   weight = 20
   
 
