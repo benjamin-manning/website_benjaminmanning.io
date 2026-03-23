@@ -9,14 +9,14 @@ tags:
 date: "2026-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://arxiv.org/abs/2509.09071"
+external_link: "https://dl.acm.org/doi/10.1145/3742413.3789078"
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
 links:
 url_code: ""
-url_pdf: "https://arxiv.org/abs/2509.09071"
+url_pdf: "https://dl.acm.org/doi/10.1145/3742413.3789078"
 url_slides: ""
 url_video: ""
 ---
