@@ -78,7 +78,7 @@ user_groups:
 # In my free time, you can find me writing almost funny vignettes on my website, hiking slowly, cycling through traffic, playing soccer, reading, napping, playing Catan, or simply hanging with friends. I also have a thing for [ice cream](https://benjaminmanning.substack.com/p/im-almost-30-and-im-still-writing). 
 
 ---
-I'm a 4th-year PhD candidate at MIT in the Information Technology group at Sloan. My research studies AI agents as: (1) models of human behavior, and (2) Decision-makers acting on behalf of consumers and firms, and their subsequent impact on markets. I draw on methodological tools from economics, psychology, and computer science to study these questions.
+I'm a 4th-year PhD candidate at MIT in the Information Technology group at Sloan. My research studies AI agents as: (1) models of human behavior, and (2) decision-makers acting on behalf of consumers and firms, and their subsequent impact on markets. I draw on methodological tools from economics, psychology, and computer science to study these questions.
 
 Here are links to my [[Research]](#working_papers), [[CV]](/files/Benjamin_Manning_Resume.pdf), and [[Google Scholar]](https://scholar.google.com/citations?user=teSF3_AAAAAJ&hl=en&oi=sra). This [[MIT news article]](https://news.mit.edu/2025/benjamin-manning-how-ai-will-shape-future-work-1201) provides a summary of my work.
 
