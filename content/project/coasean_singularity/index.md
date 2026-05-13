@@ -16,6 +16,8 @@ image:
 links:
 - name: "Press: Marginal Revolution"
   url: "https://marginalrevolution.com/marginalrevolution/2025/10/will-there-be-a-coasean-singularity.html"
+- name: "Press: MIT IDE"
+  url: "https://ide.mit.edu/insights/how-ai-agents-for-commerce-could-shape-future-markets/"
 url_code: ""
 url_pdf: "https://www.nber.org/books-and-chapters/economics-transformative-ai/coasean-singularity-demand-supply-and-market-design-ai-agents"
 url_slides: ""
