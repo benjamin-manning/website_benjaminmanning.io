@@ -22,6 +22,7 @@ organizations:
 
 interests:
   - AI Behavioral Science
+  - Applied AI
   - Market Design
   - Behavioral & Experimental Economics
 
