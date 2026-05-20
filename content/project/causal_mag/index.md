@@ -4,7 +4,7 @@ design:
   font_size: XS
 Summary: |
   With Linnea Gandhi and Angela L. Duckworth. <br>
-  _Current Directions in Psychological Science_, 2024.
+  **Current Directions in Psychological Science**, 2024.
 
 tags:
 - Peer-Reviewed

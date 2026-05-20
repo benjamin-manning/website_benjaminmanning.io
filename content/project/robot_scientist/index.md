@@ -1,7 +1,8 @@
 ---
 title: "Automated Social Science: Language Models as Scientist and Subjects"
 Summary: With Kehang Zhu and John J. Horton. <br> 
- _Reject and Resubmit_ at the Quarterly Journal of Economics.
+ Reject and Resubmit at the **Quarterly Journal of Economics**. <br>
+ Extended abstract at the **ACM Conference on Economics & Computation (EC '26)**.
 # summary: asdf
 
 tags:
