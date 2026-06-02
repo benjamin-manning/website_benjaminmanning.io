@@ -32,13 +32,13 @@ education:
     year: 2022 - Present
   - course: S.M., Management Research
     institution: Massachusetts Institute of Technology
-    year: 2022 - 2024   
+    year: 2024
   - course: Master of Public Policy
     institution: Harvard Kennedy School
-    year: 2019 - 2021
+    year: 2021
   - course: B.A., Mathematics
     institution: Washington University in St. Louis
-    year: 2013 - 2017
+    year: 2017
     
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

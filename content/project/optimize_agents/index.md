@@ -3,7 +3,7 @@ title: "General Social Agents"
 Summary: With John J. Horton. <br>
  Revise & Resubmit at **Econometrica**. <br>
  Extended abstract at the **ACM Conference on Economics & Computation (EC '26)**. <br>
- <span class="badge-award">WISE 2025 Best Paper Award</span>
+ <span class="badge-award">Job Market Paper</span> <span class="badge-award badge-gold">WISE 2025 Best Paper Award</span>
 # summary: asdf
 
 tags:
