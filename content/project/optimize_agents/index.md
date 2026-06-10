@@ -11,7 +11,7 @@ tags:
 date: "2025-08-03T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.nber.org/papers/w34937"
+external_link: "/files/general_social_agents.pdf"
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
@@ -20,7 +20,7 @@ links:
 - name: "Press: Marginal Revolution"
   url: "https://marginalrevolution.com/marginalrevolution/2025/09/pathbreaking-paper-on-ai-simulations-of-human-behavior.html"
 url_code: ""
-url_pdf: "https://www.nber.org/papers/w34937"
+url_pdf: "/files/general_social_agents.pdf"
 url_slides: ""
 url_video: ""
 
