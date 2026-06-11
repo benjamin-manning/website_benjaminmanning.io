@@ -1,0 +1,24 @@
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    document.querySelectorAll('.btn-abstract').forEach(function (btn) {
+      btn.addEventListener('click', function (e) {
+        e.preventDefault();
+        var body = btn.closest('.media-body');
+        var panel = body && body.querySelector('.paper-abstract-collapse');
+        if (panel) {
+          var open = panel.classList.toggle('show');
+          btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+          // Items sit inside an Isotope grid, which positions them absolutely;
+          // re-layout so papers below shift to fit the expanded abstract.
+          var container = btn.closest('.projects-container');
+          if (container && window.Isotope) {
+            var iso = window.Isotope.data(container);
+            if (iso) {
+              iso.layout();
+            }
+          }
+        }
+      });
+    });
+  });
+</script>

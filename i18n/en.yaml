@@ -1,0 +1,5 @@
+- id: btn_pdf
+  translation: Paper
+
+- id: btn_cite
+  translation: Bibtex

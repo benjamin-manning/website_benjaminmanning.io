@@ -3,6 +3,9 @@ title: "The Coasean Singularity? Demand, Supply, and Market Design with AI Agent
 Summary: With Peyman Shahidi, Gili Rusak, Andrey Fradkin, and John J. Horton. <br> 
  Forthcoming chapter in **The Economics of Transformative AI**
 
+abstract: |
+  AI agents—autonomous systems that perceive, reason, and act on behalf of human principals—are poised to transform digital markets by dramatically reducing transaction costs. This chapter evaluates the economic implications of this transition, adopting a consumer-oriented view of agents as market participants that can search, negotiate, and transact directly. From the demand side, agent adoption reflects derived demand: users trade off decision quality against effort reduction, with outcomes mediated by agent capability and task context. On the supply side, firms will design, integrate, and monetize agents, with outcomes hinging on whether agents operate within or across platforms. At the market level, agents create efficiency gains from lower search, communication, and contracting costs, but also introduce frictions such as congestion and price obfuscation. By lowering the costs of preference elicitation, contract enforcement, and identity verification, agents expand the feasible set of market designs but also raise novel regulatory challenges. While the net welfare effects remain an empirical question, the rapid onset of AI-mediated transactions presents a unique opportunity for economic research to inform real-world policy and market design.
+
 tags:
 - Book Chapter
 date: "2025-07-03T00:00:00Z"
