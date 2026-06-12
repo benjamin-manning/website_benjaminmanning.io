@@ -2,7 +2,7 @@
 title: "Taste-as-Program: Scalable Preference Elicitation with Artificial Intelligence"
 design:
   font_size: XS
-Summary: with Gili Rusak and John Horton.
+Summary: with Gili Rusak and John J. Horton.
 
 tags:
 - Work in Progress

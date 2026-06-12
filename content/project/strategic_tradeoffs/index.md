@@ -1,7 +1,7 @@
 ---
 title: "Strategic Tradeoffs Between Humans and AI in Multi-Agent Bargaining"
 Summary: |
-  With Crystal Qian, Kehang Zhu, John Horton, Vivian Tsai, James Wexler, and Nithum Thain. <br>
+  With Crystal Qian, Kehang Zhu, John J. Horton, Vivian Tsai, James Wexler, and Nithum Thain. <br>
   **ACM Conference on Intelligent User Interfaces (IUI)**, 2026.
 
 abstract: |
