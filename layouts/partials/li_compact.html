@@ -32,15 +32,21 @@
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0">
-      <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
+      {{ if $item.Params.nolink }}{{ $item.Title }}{{ else }}<a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>{{ end }}
     </h3>
 
     {{ with $summary }}
+    {{ if $item.Params.nolink }}
+    <div class="article-style">
+      {{.}}
+    </div>
+    {{ else }}
     <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="summary-link">
       <div class="article-style">
         {{.}}
       </div>
     </a>
+    {{ end }}
     {{ end }}
 
     <div class="stream-meta article-metadata">

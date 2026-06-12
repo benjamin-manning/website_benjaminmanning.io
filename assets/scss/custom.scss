@@ -104,6 +104,23 @@ section h3.article-title {
   margin-bottom: 0;
 }
 
+/* Tighter gap between papers and between each paper's text and its buttons */
+.media.stream-item {
+  margin-bottom: 1rem;
+}
+
+#work_in_progress .media.stream-item {
+  margin-bottom: 0.75rem;
+}
+
+.media.stream-item .stream-meta {
+  margin-top: 2px;
+}
+
+.media.stream-item .btn-links .btn {
+  margin-top: 0 !important;
+}
+
 /* Red outline (stenciled) award badge */
 .badge-award {
   display: inline-block;
