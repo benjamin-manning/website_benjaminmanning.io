@@ -22,8 +22,7 @@ organizations:
 
 interests:
   - AI Behavioral Science
-  - Market Design
-  - Behavioral & Experimental Economics
+  - Economics of AI Agents
 
 education:
   courses:
