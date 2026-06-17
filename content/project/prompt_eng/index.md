@@ -23,6 +23,8 @@ links:
   url: "https://mitsloan.mit.edu/ideas-made-to-matter/study-generative-ai-results-depend-user-prompts-much-models"
 - name: "Press: Marginal Revolution"
   url: "https://marginalrevolution.com/marginalrevolution/2025/08/monday-assorted-links-522.html"
+- name: "Press: Columbia Business School Insights"
+  url: "https://business.columbia.edu/insights/better-ai-doesnt-always-mean-better-outcomes"
 url_code: ""
 url_pdf: "https://pubsonline.informs.org/doi/full/10.1287/isre.2025.2029"
 url_slides: ""
