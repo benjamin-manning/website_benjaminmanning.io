@@ -79,7 +79,7 @@ user_groups:
 ---
 **I am on the AY 2026-2027 job market.**
 
-I'm a 5th-year PhD candidate in the Information Technology group at MIT Sloan. My research asks when AI systems can credibly represent people. I pursue this agenda through two connected streams. First, I develop methods and computational systems that make LLM simulations credible enough to serve as proxies for human subjects in social science and market research. Second, I study how AI systems learn, represent, and act on human preferences, and how those preferences can serve as inputs to new types of markets.
+I'm a 5th-year PhD candidate in the Information Technology group at MIT Sloan. My research asks when AI systems can credibly represent people, and what becomes possible once they can. I study this question in two connected ways. First, I develop methods that make AI simulations credible and useful proxies for human subjects in social science and market research, and use those proxies to build computational systems for automated exploration and hypothesis generation. Second, I study how AI systems learn and act on human preferences, and how those preferences can serve as inputs to new types of digital platforms and markets.
 
 Here are links to my [[Research]](#working_papers), [[CV]](/files/Benjamin_Manning_Resume.pdf), and [[Google Scholar]](https://scholar.google.com/citations?user=teSF3_AAAAAJ&hl=en&oi=sra). This [[MIT news article]](https://news.mit.edu/2025/benjamin-manning-how-ai-will-shape-future-work-1201) provides a summary of my work. I am very fortunate to have my research supported in part by Emergent Ventures and Schmidt Sciences.
 
