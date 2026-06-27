@@ -10,7 +10,7 @@ abstract: |
 
 tags:
 - Working Paper
-date: "2025-08-01T00:00:00Z"
+date: "2025-06-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://www.nber.org/papers/w31122"
