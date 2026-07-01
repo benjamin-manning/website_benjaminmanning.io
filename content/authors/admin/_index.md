@@ -20,10 +20,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 # bio: 
 
-interests:
-  - AI Behavioral Science
-  - Economics of AI Agents
-
 education:
   courses:
   - course: Ph.D., Management Science & Information Technology
