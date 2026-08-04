@@ -1,5 +1,5 @@
 ---
-title: "How Complex are People? Using AI Simulations to Measure the Dimensionality of Human Behaviors"
+title: "How AI Prompts Can Teach Us About the Dimensionality of Human Behavior"
 design:
   font_size: XS
 Summary: with Matthew O. Jackson, Yutong Xie, Walter Yuan, and Qiaozhu Mei.
