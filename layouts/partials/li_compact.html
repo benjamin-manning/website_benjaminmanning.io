@@ -79,6 +79,11 @@
         Abstract
       </a>
       {{ end }}
+      {{ if $item.Params.coming_soon }}
+      <span class="btn btn-outline-primary my-1 mr-1 btn-sm btn-coming-soon" aria-disabled="true">
+        Paper Coming Soon
+      </span>
+      {{ end }}
       {{ partial "page_links" (dict "page" $item "is_list" 1) }}
     </div>
     {{ end }}
