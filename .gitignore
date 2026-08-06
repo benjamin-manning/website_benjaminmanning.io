@@ -6,9 +6,11 @@
 public/
 *.DS_Store
 
-static/files/Benjamin_Manning_Resume.aux
-static/files/Benjamin_Manning_Resume.fdb_latexmk
-static/files/Benjamin_Manning_Resume.fls
-static/files/Benjamin_Manning_Resume.log
-static/files/Benjamin_Manning_Resume.out
-static/files/Benjamin_Manning_Resume.synctex.gz
+# LaTeX build artifacts
+static/files/*.aux
+static/files/*.fdb_latexmk
+static/files/*.fls
+static/files/*.log
+static/files/*.out
+static/files/*.synctex.gz
+texput.log

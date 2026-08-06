@@ -1,0 +1,159 @@
+\documentclass[11pt]{article}
+\usepackage[margin=1in,bottom=0.85in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage{mathpazo}
+\usepackage[svgnames]{xcolor}
+\usepackage{needspace}
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks = TRUE,
+  citecolor  =[HTML]{8B0000},
+  linkcolor  =[HTML]{8B0000},
+  urlcolor   =[HTML]{8B0000}
+}
+\pagestyle{empty}
+\linespread{0.95}
+\setlength{\parindent}{0pt}
+
+\newenvironment{publist}
+  {\begin{list}{}{%
+    \setlength{\leftmargin}{1.5em}%
+    \setlength{\itemindent}{-1.5em}%
+    \setlength{\itemsep}{10pt}%
+    \setlength{\parsep}{0pt}%
+    \setlength{\topsep}{4pt}}}
+  {\end{list}}
+
+\newcommand{\pubsection}[1]{\Needspace*{6\baselineskip}\vspace{6pt}{\large\scshape #1}\par\vspace{-4pt}\rule{\textwidth}{0.4pt}}
+
+\begin{document}
+
+\begin{center}
+{\LARGE\bfseries Benjamin S. Manning}\\[4pt]
+List of Publications\\[4pt]
+bmanning (at) mit.edu $\diamond$ \href{https://benjaminmanning.com/}{benjaminmanning.com}
+\end{center}
+
+\vspace{4pt}
+{\small $\dagger$ indicates first author or co-first author. Where a public version of a paper exists, its title links to it.}
+
+\pubsection{Job Market Paper}
+\begin{publist}
+\needspace{6\baselineskip}\item \href{https://benjaminmanning.io/files/general_social_agents.pdf}{\textbf{General Social Agents}}\\
+\textbf{Benjamin S. Manning}$^\dagger$ \& John J. Horton\\
+Revise \& Resubmit at \textit{Econometrica}\\
+Extended abstract at \textit{ACM Conference on Economics \& Computation (EC '26)}\\[3pt]
+{\footnotesize \textbf{Abstract: }
+Useful social science theories predict behavior across settings.
+However, applying a theory to make predictions in new settings is challenging: rarely can it be done without ad hoc modifications to account for setting-specific factors.
+We argue that AI agents put in simulations of those novel settings offer an alternative for applying theory, requiring minimal or no modifications.
+We present an approach for building such ``general'' agents that use theory-grounded natural language instructions, existing empirical data, and knowledge acquired by the underlying AI during training.
+To demonstrate the approach in settings where no data from that data-generating process exists---as is often the case in applied prediction problems---we design a heterogeneous population of 883,200 novel games.
+AI agents are constructed using human data from a small set of conceptually related but structurally distinct ``seed'' games.
+In preregistered experiments, on average, agents predict initial human play in a random sample of 1,500 games from the population better than (i) a cognitive hierarchy model, (ii) game-theoretic equilibria, and (iii) out-of-the-box agents.
+For a small set of separate novel games, these simulations predict responses from a new sample of human subjects \emph{better} even than the most plausibly relevant published human data.}
+\end{publist}
+
+\pubsection{Working Papers}
+\begin{publist}
+\needspace{6\baselineskip}\item \href{https://www.nber.org/papers/w32381}{\textbf{Automated Social Science: Language Models as Scientist and Subjects}}\\
+\textbf{Benjamin S. Manning}$^\dagger$, Kehang Zhu$^\dagger$, \& John J. Horton\\
+Reject \& Resubmit at \textit{The Quarterly Journal of Economics}\\
+Extended abstract at \textit{ACM Conference on Economics \& Computation (EC '26)}\\[3pt]
+{\footnotesize \textbf{Abstract: }We present an approach for automatically generating and testing, \emph{in silico}, social scientific hypotheses.
+This automation is made possible by recent advances in large language models (LLM), but the key feature of the approach is the use of structural causal models.
+Structural causal models provide a language to state hypotheses, a blueprint for constructing LLM-based agents, an experimental design, and a plan for data analysis.
+The fitted structural causal model becomes an object available for prediction or the planning of follow-on experiments.
+We demonstrate the approach with several scenarios: a negotiation, a bail hearing, a job interview, and an auction.
+In each case, causal relationships are both proposed and tested by the system, finding evidence for some and not others.
+We provide evidence that the insights from these simulations of social interactions are not available to the LLM purely through direct elicitation.
+When given its proposed structural causal model for each scenario, the LLM is good at predicting the signs of estimated effects, but it cannot reliably predict the magnitudes of those estimates.
+In the auction experiment, the \emph{in silico} simulation results closely match the predictions of auction theory, but elicited predictions of the clearing prices from the LLM are inaccurate.
+However, the LLM's predictions are dramatically improved if the model can condition on the fitted structural causal model.
+In short, the LLM knows more than it can (immediately) tell.}
+
+\needspace{6\baselineskip}\item \href{https://benjaminmanning.com/files/homo_silicus.pdf}{\textbf{Large Language Models as Simulated Economic Agents: What Can We Learn from Homo Silicus?}}\\
+John J. Horton$^\dagger$, Apostolos Filippas$^\dagger$, \& \textbf{Benjamin S. Manning}$^\dagger$\\
+Revise \& Resubmit at \textit{The Review of Economics and Statistics}\\
+Extended abstract at \textit{ACM Conference on Economics \& Computation (EC '24)}\\[3pt]
+{\footnotesize \textbf{Abstract: }We argue that newly-developed large language models (LLMs), because of how they are trained and designed, are implicit computational models of humans---a \emph{Homo silicus}.
+LLMs can be used like economists use \emph{Homo economicus}: they can be given endowments, information, preferences, and so on, and then their behavior can be explored in scenarios via simulation.
+Experiments using this approach, derived from Charness and Rabin (2002), Kahneman et al. (1986), Samuelson and Zeckhauser (1988), Oprea (2024b), and Horton (2025), show qualitatively similar results to the original, and when they differ, it is often generative for future research.
+We discuss potential applications, conceptual issues, and why this approach can inform the study of humans.}
+
+\needspace{6\baselineskip}\item \textbf{How AI Prompts Can Teach Us About the Structure of Human Behavior}\\
+Matthew O. Jackson$^\dagger$, \textbf{Benjamin S. Manning}$^\dagger$, Yutong Xie$^\dagger$, Walter Yuan, \& Qiaozhu Mei\\[3pt]
+{\footnotesize \textbf{Abstract: }
+We introduce a general AI-based method for studying the complexity of human behavior.
+Our method infers a \emph{type} for any person for whom one has behavioral data across settings.
+The type is coded as a vector of intensities for a corresponding list of characteristics or \emph{dimensions}.
+We provide these type vectors to an LLM, which predicts the type's actions for each setting.
+For instance, we might prompt an LLM to be an ``$x_1$ out of 5 in Altruism'' and an ``$x_2$ out of 5 in Risk Aversion,'' and so on, and then ask to play ultimatum and trust games.
+By varying the intensities and number of dimensions and comparing the resulting behavior with human data, we can identify an empirical upper bound on the number of dimensions needed to approximate human behavior across settings.
+We apply the method to decisions from 68,779 subjects in ten classic economic games, comparing dimensions from economics and psychology.
+We find that human behavior can be closely matched using just three dimensions: risk aversion, strategic sophistication, and fairness.
+Unlike traditional dimensionality-reduction methods, the types can be used to predict choices in novel, structurally distinct settings.
+To test this capability, we infer types for some subjects on a subset of the games.
+These types cluster into just a dozen groups, and we use them to predict individual behavior in a held-out game.
+These predictions perform comparably to---and sometimes outperform---a flexible machine-learning benchmark.
+Together, these analyses illustrate the method's promise for comparing theories.
+Substantively, the results suggest that behavior across diverse settings can be approximated by a low-dimensional, portable representation, supporting the possibility of parsimonious meta-theories in the behavioral sciences.}
+
+\needspace{6\baselineskip}\item \textbf{Self-Supervised Preference Learning for Multimodal Foundation Models}\\
+Akshata Tiwari$^\dagger$, Jillian Ross, \textbf{Benjamin S. Manning}, \& Andrew Lo\\
+Under review at \textit{NeurIPS}\\[3pt]
+{\footnotesize \textbf{Abstract: }
+Preference optimization for multimodal foundation models typically draws its signal from external judgment: human annotations, model-based scoring, or task-specific supervision. We propose a self-supervised alternative based on a simple principle: if two images depict similar underlying data, their descriptions should be similar.
+We instantiate this idea for time-series data rendered as charts---a setting that is simple, broadly important, and well-suited to clean downstream tasks.
+Two charts are neighbors if they trace similar patterns in the underlying data; we compute these neighborhoods directly from the data, generate candidate descriptions of each image and its neighbors using the model itself, and rank candidates by their agreement with the neighborhood to form preference pairs. We apply this method to direct preference optimization on two open-source foundation models, Qwen2-VL-7B and Gemma-3-4B, across three domains: financial price paths, electrocardiograms, and seismic traces. The learned signal transfers zero-shot to held-out tasks. Relative to the supervised fine-tuning baseline, the detection of large price-moves increases by 31\%, crash-risk prediction by 14\%, electrocardiogram abnormality detection by 10\%, and seismic event detection by 3.3\%. Probes show the gains reflect stronger alignment between visual inputs and textual outputs, and ablations confirm that neither generic preference optimization nor learned-feature neighborhoods produce the same gains.}
+
+\needspace{6\baselineskip}\item \textbf{Taste-as-Program: Scalable Preference Elicitation with AI}\\
+Gili Rusak$^\dagger$, \textbf{Benjamin S. Manning}$^\dagger$, \& John J. Horton\\[3pt]
+{\footnotesize \textbf{Abstract: }Many economic mechanisms require detailed information about individuals' preferences.
+Preference elicitation, however, is costly: individuals may under-report when evaluating many alternatives.
+We document this pattern in an online labor market experiment, showing that workers' self-reported rankings over job opportunities fail to capture true preferences as the option set grows.
+While ranking costs grow with the number of jobs, the costs to those workers of expressing \emph{how} they choose jobs---what we call ``tastes''---do not.
+Taste descriptions, which specify what to prioritize, which tradeoffs matter, and so on, can function as ``programs'' for generating preferences over arbitrarily many options.
+We show that an AI can execute these programs at scale.
+The same workers write descriptions of their tastes, and a language model ranks the same job opportunities on their behalf.
+These AI-inferred preferences remain accurate as choice sets grow, including for jobs workers have never seen.
+Indeed, we estimate that AI is more accurate than the workers when ranking as few as 17 jobs.
+In market simulations, participants prefer matches from mechanisms facilitated by AI-inferred preferences over those using their own rankings.
+These findings suggest that AI can enable market designs in settings where direct preference elicitation is prohibitively costly.}
+\end{publist}
+
+\pubsection{Peer-Reviewed Publications}
+\begin{publist}
+\needspace{6\baselineskip}\item \href{https://pubsonline.informs.org/doi/full/10.1287/isre.2025.2029}{\textbf{Prompt Adaptation as a Dynamic Complement in Generative AI Systems}}\\
+Eaman Jahani$^\dagger$, \textbf{Benjamin S. Manning}, Joe Zhang, Hong-Yi TuYe, Mohammed Alsobay, Christos Nicolaides, Siddharth Suri, \& David Holtz\\
+\textit{Information Systems Research}, 2026\\[3pt]
+{\footnotesize \textbf{Abstract: }As generative AI systems rapidly improve, a key question emerges: how do users adapt to these changes, and when does such adaptation matter for realizing performance gains? Drawing on theories of dynamic capabilities and IT complements, we study \textit{prompt adaptation}---how users adjust their inputs in response to evolving model behavior---using a common experimental design applied to two preregistered tasks with 3,750 total participants who submitted nearly 37,000 prompts. We show that the importance of prompt adaptation depends critically on task structure. In a task with fixed evaluation criteria and an unambiguous goal, user prompt adaptation accounts for roughly half of the performance gains from a model upgrade. In contrast, in an open-ended creative task where the space of acceptable outputs is effectively unbounded and quality is subjective, performance improvements are driven primarily by model capability; prompt adaptation plays a limited role. We further show that automated prompt rewriting cannot generally substitute for human adaptation: when aligned with task objectives, it can modestly improve performance, but when misaligned, it can actively undermine the gains from model improvements. Together, these findings position prompt adaptation as a dynamic complement whose importance depends on task structure and system design, and suggest that without it, a substantial share of the economic value created by advances in generative models may go unrealized.}
+
+\needspace{6\baselineskip}\item \href{https://www.pnas.org/doi/10.1073/pnas.2418616122}{\textbf{National Megastudy Shows that Email Nudges to Elementary School Teachers Boost Student Math Achievement, Particularly When Personalized}}\\
+Angela Duckworth$^\dagger$, Katherine Milkman, \ldots{} \textbf{Benjamin S. Manning}, \ldots, \& 26 others\\
+\textit{Proceedings of the National Academy of Sciences}, 2025\\[3pt]
+{\footnotesize \textbf{Abstract: }In response to the alarming recent decline in US math achievement, we conducted a national megastudy in which 140,461 elementary school teachers who collectively taught 2,992,027 students were randomly assigned to receive a variety of behaviorally informed email nudges aimed at improving students' progress in math. Specifically, we partnered with the nonprofit educational platform Zearn Math to compare the impact of 15 different interventions with a reminder-only megastudy control condition. All 16 conditions entailed weekly emails delivered to teachers over 4-wk in the fall of 2021. The best-performing intervention, which encouraged teachers to log into Zearn Math for an updated report on how their students were doing that week, produced a 5.06\% increase in students' math progress (3.30\% after accounting for the winner's curse). In exploratory analyses, teachers who received any behaviorally informed email nudge (vs. a reminder-only megastudy control) saw their students' math progress boosted by an average of 1.89\% during the 4-wk intervention period; emails referencing personalized data (i.e., classroom-specific statistics) outperformed emails that did not by 2.26\%. While small in size, these intervention effects were consistent across school socioeconomic status and school type (public, private, etc.) and, further, persisted in the 8-wk post-intervention period. Collectively, these findings underscore both how difficult it is to change behavior and the need for large-scale, rigorous, empirical research of the sort undertaken in this megastudy.}
+
+\needspace{6\baselineskip}\item \href{https://journals.sagepub.com/doi/full/10.1177/09637214241268222}{\textbf{Effect Size Magnification: No Variable is as Important as the One You're Thinking About---While You're Thinking About It}}\\
+Linnea Gandhi$^\dagger$, \textbf{Benjamin S. Manning}, \& Angela Duckworth\\
+\textit{Current Directions in Psychological Science}, 2024\\[3pt]
+{\footnotesize \textbf{Abstract: }The goal of psychological science is to discover truths about human nature, and the typical form of empirical insights is a simple statement of the form x relates to y. We suggest that such ``one-liners'' imply much larger x-y relationships than those we typically study. Given the multitude of factors that compete and interact to influence any human outcome, small effect sizes should not surprise us. And yet they do---as evidenced by the persistent and systematic underpowering of research studies in psychological science. We suggest an explanation. Effect size magnification is the tendency to exaggerate the importance of the variable under investigation because of the momentary neglect of others. Although problematic, this attentional focus serves a purpose akin to that of the eye's fovea. We see a particular x-y relationship with greater acuity when it is the center of our attention. Debiasing remedies are not straightforward, but we recommend (a) recalibrating expectations about the effect sizes we study, (b) proactively exploring moderators and boundary conditions, and (c) periodically toggling our focus from the x variable we happen to study to the non-x variables we do not.}
+\end{publist}
+
+\pubsection{Refereed Conference Proceedings}
+\begin{publist}
+\needspace{6\baselineskip}\item \href{https://dl.acm.org/doi/10.1145/3742413.3789078}{\textbf{Strategic Tradeoffs Between Humans and AI in Multi-Agent Bargaining}}\\
+Crystal Qian$^\dagger$, Kehang Zhu$^\dagger$, John J. Horton, \textbf{Benjamin S. Manning}, Vivian Tsai, James Wexler, \& Nithum Thain\\
+\textit{ACM Conference on Intelligent User Interfaces (IUI)}, 2026\\[3pt]
+{\footnotesize \textbf{Abstract: }Markets increasingly accommodate large language models (LLMs) as autonomous decision-making agents. As this transition occurs, it becomes critical to evaluate how these agents behave relative to their human and task-specific statistical predecessors. In this work, we present results from an empirical study comparing humans (N=216), multiple frontier LLMs, and customized Bayesian agents in dynamic multi-player bargaining games under identical conditions. Bayesian agents extract the highest surplus with aggressive trade proposals that are frequently rejected. Humans and LLMs achieve comparable aggregate surplus within their groups, but exhibit different trading strategies. LLMs favor conservative, concessionary proposals that are usually accepted by other LLMs, while humans propose trades that are consistent with fairness norms but are more likely to be rejected. These findings highlight that performance parity---a common benchmark in agent evaluation---can mask substantive procedural differences in how LLMs behave in complex multi-agent interactions.}
+\end{publist}
+
+\pubsection{Book Chapters}
+\begin{publist}
+\needspace{6\baselineskip}\item \href{https://www.nber.org/books-and-chapters/economics-transformative-ai/coasean-singularity-demand-supply-and-market-design-ai-agents}{\textbf{The Coasean Singularity? Demand, Supply, and Market Design with AI Agents}}\\
+Peyman Shahidi$^\dagger$, Gili Rusak$^\dagger$, \textbf{Benjamin S. Manning}$^\dagger$, Andrey Fradkin$^\dagger$, \& John J. Horton$^\dagger$\\
+Forthcoming in \textit{The Economics of Transformative AI}\\[3pt]
+{\footnotesize \textbf{Abstract: }AI agents---autonomous systems that perceive, reason, and act on behalf of human principals---are poised to transform digital markets by dramatically reducing transaction costs. This chapter evaluates the economic implications of this transition, adopting a consumer-oriented view of agents as market participants that can search, negotiate, and transact directly. From the demand side, agent adoption reflects derived demand: users trade off decision quality against effort reduction, with outcomes mediated by agent capability and task context. On the supply side, firms will design, integrate, and monetize agents, with outcomes hinging on whether agents operate within or across platforms. At the market level, agents create efficiency gains from lower search, communication, and contracting costs, but also introduce frictions such as congestion and price obfuscation. By lowering the costs of preference elicitation, contract enforcement, and identity verification, agents expand the feasible set of market designs but also raise novel regulatory challenges. While the net welfare effects remain an empirical question, the rapid onset of AI-mediated transactions presents a unique opportunity for economic research to inform real-world policy and market design.}
+\end{publist}
+
+\end{document}
