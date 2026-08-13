@@ -152,19 +152,16 @@ We discuss potential applications, conceptual issues, and why this approach can 
 \begin{singlespace}
 \footnotesize
 \textbf{Preliminary Abstract (subject to change):}
-We introduce a general AI-based method for studying the complexity of human behavior.
-Our method infers a \emph{type} for any person for whom one has behavioral data across settings.
-The type is coded as a vector of intensities for a corresponding list of characteristics or \emph{dimensions}.
-We provide these type vectors to an LLM, which predicts the type's actions for each setting.
-For instance, we might prompt an LLM to be an ``$x_1$ out of 5 in Altruism'' and an ``$x_2$ out of 5 in Risk Aversion,'' and so on, and then ask to play ultimatum and trust games.
-By varying the intensities and number of dimensions and comparing the resulting behavior with human data, we can identify an empirical upper bound on the number of dimensions needed to approximate human behavior across settings.
-We apply the method to decisions from 68,779 subjects in ten classic economic games, comparing dimensions from economics and psychology.
-We find that human behavior can be closely matched using just three dimensions: risk aversion, strategic sophistication, and fairness.
-Unlike traditional dimensionality-reduction methods, the types can be used to predict choices in novel, structurally distinct settings.
-To test this capability, we infer types for some subjects on a subset of the games.
-These types cluster into just a dozen groups, and we use them to predict individual behavior in a held-out game.
-These predictions perform comparably to---and sometimes outperform---a flexible machine-learning benchmark.
-Together, these analyses illustrate the method's promise for comparing theories.
+We introduce a general AI-based method for studying the structure and complexity of human behavior.
+Our method infers a type for any person for whom one has behavioral data across settings.
+The type is coded as a vector of intensities for a corresponding list of characteristics or dimensions.
+We provide these type vectors to an LLM, which is then asked to choose actions for each setting.
+For instance, we might prompt an LLM to be an ``$x_1$ out of 5 in Altruism'' and an ``$x_2$ out of 5 in Risk Aversion,'' and so on, and then ask it to play ultimatum and trust games.
+By varying the type vectors assigned to the LLM and comparing its choices in various settings with those of people, we can identify an empirical upper bound on the dimensionality needed to approximate the data and infer individual-level types that can be used to predict each person's behavior in novel settings.
+We apply the method to decisions made by 68,779 subjects in ten classic economic games.
+Among many candidate dimensions, we find that human behavior can be closely matched using just three: risk aversion, strategic sophistication, and trust.
+When we infer types for individual subjects on a subset of the games, the types cluster into just a dozen groups, and we use them to predict individual behavior in a held-out game.
+These predictions perform comparably to---and sometimes outperform---a flexible machine-learning benchmark, even though the benchmark is trained directly on the held-out game.
 Substantively, the results suggest that behavior across diverse settings can be approximated by a low-dimensional, portable representation, supporting the possibility of parsimonious meta-theories in the behavioral sciences.
 \end{singlespace}
 
