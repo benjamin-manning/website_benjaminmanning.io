@@ -12,6 +12,6 @@ tags:
 date: "2025-05-15T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7308598"
-url_pdf: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7308598"
+external_link: "https://arxiv.org/abs/2608.18265"
+url_pdf: "https://arxiv.org/abs/2608.18265"
 ---
