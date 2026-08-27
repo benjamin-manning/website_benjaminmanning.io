@@ -56,7 +56,8 @@ B.A. Mathematics (College Honors) \hfill 2017
 % camerer (at) caltech.edu & siddharth.suri (at) microsoft.com \\
 % \end{tabular}
 
-\section{\sc Grants (\$483,325)}
+\section{\sc Grants (\$488,325)}
+Google Cloud Research Credits Grant (\$5,000; w/ Alex Moehring) \hfill 2026 \\
 Schmidt Sciences AI at Work Award (\$193,325) \hfill 2025 \\
 Emergent Ventures Fast Grant (\$50,000) \hfill 2025 \\
 MIT GenAI Impact Consortium \& OpenAI (\$180,000; w/ John J. Horton) \hfill 2025 \\
@@ -153,12 +154,13 @@ We discuss potential applications, conceptual issues, and why this approach can 
 \footnotesize
 \textbf{Abstract:}
 We introduce a general, easy-to-implement AI-based method for studying the structure and complexity of human behavior.
-We assign a large language model a ``type vector'' and prompt it to choose actions across settings for which we observe human choices.
-For instance, the type vector $(2,4)$ might yield the prompt ``You are a $\frac{2}{5}$ in Altruism and $\frac{4}{5}$ in Trust.''
-We vary the dimensions (e.g., Altruism, Fairness, Trust, $\dots$) and their values (e.g., 1--5) to identify the type space that best matches human choices.
-Applying the method to 119,147 decisions made by 78,657 subjects from more than 35 countries across ten classic economic game roles, we find that human behavior can be closely matched using three dimensions: Risk Aversion, Strategic Sophistication, and Trust.
-Moreover, the types needed to fit individuals across games cluster into fewer than a dozen groups and can predict behavior in held-out games with different rules and available actions.
-The results suggest that behavior across diverse settings can be approximated by a low-dimensional, portable representation, and that the method may be useful for studying other aspects of human behavior.
+We assign a large language model a ``type vector'' and then prompt it to choose actions across settings in which we observe human choices.
+For instance, the type vector $(2,4)$ becomes ``You are a player characterized by the following profile: 2 out of 5 in Altruism, 4 out of 5 in Risk Aversion,'' after which it is prompted to make choices.
+We vary the dimensions (e.g., Altruism, Fairness, Trust, $\dots$) and values (e.g., 1--5) to minimize distance to human choices.
+Applying the method to 119,147 decisions made by 78,657 subjects from more than 35 countries across 10 classic economic game roles, we find that human behavior can be closely matched using three dimensions: Risk Aversion, Strategic Sophistication, and Trust.
+Moreover, the types needed to fit individuals across games cluster into fewer than a dozen groups, and can predict behavior in held-out games with different rules and available actions.
+The results suggest that behavior across diverse settings can be approximated by a low-dimensional, portable representation, supporting the possibility of general yet parsimonious theories across the behavioral sciences.
+More broadly, the method can provide insights into the structure of many human behaviors.
 \end{singlespace}
 
 {\bf Self-Supervised Preference Learning for Multimodal Foundation Models}\\
