@@ -1,5 +1,5 @@
 ---
-title: "AI Agents as Flexible Commitment Devices: Evidence from the Field"
+title: "When Stated, Revealed, and Normative Preferences Diverge: Experimental Evidence from Personalized News Feeds"
 design:
   font_size: XS
 Summary: with Alex Moehring.
