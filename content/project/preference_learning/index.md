@@ -3,7 +3,7 @@ title: "Self-supervised Preference Learning for Multimodal Foundation Models"
 design:
   font_size: XS
 Summary: With Akshata Tiwari, Jillian Ross, and Andrew Lo. <br>
- Under Review at **NeurIPS**.
+ Under review.
 
 coming_soon: true
 
