@@ -1,5 +1,5 @@
 ---
-title: "Modeling the Structure of Human Behavior with AI Prompt Vectors"
+title: "Modeling Human Behavior with Type Vectors Using AI"
 design:
   font_size: XS
 Summary: With Matthew O. Jackson, Yutong Xie, Walter Yuan, and Qiaozhu Mei. <br>
