@@ -73,22 +73,30 @@ In short, the LLM knows more than it can (immediately) tell.}
 Matthew O. Jackson$^\dagger$, \textbf{Benjamin S. Manning}$^\dagger$, Yutong Xie$^\dagger$, Walter Yuan, \& Qiaozhu Mei\\
 Under review\\[3pt]
 {\footnotesize \textbf{Abstract: }
-We introduce a general, easy-to-implement AI-based method for modeling and analyzing the structure and complexity of human behavior.
-We assign a large language model a ``type vector'' and then prompt it to choose actions across settings in which we observe human choices.
-For instance, the type vector $(2,4)$ becomes ``You are a player characterized by the following profile: Altruism: 2 out of 5, Risk Aversion: 4 out of 5,'' after which it is prompted to make choices.
-We vary the dimensions (e.g., Altruism, Fairness, Trust, $\dots$) and values (e.g., 1--5) to minimize distance to human choices.
-Applying the method to 119,147 decisions made by 78,657 subjects from more than 35 countries across 10 classic economic game roles, we find that human behavior can be closely matched using three dimensions: Risk Aversion, Strategic Sophistication, and Trust.
-Moreover, the types needed to fit individuals across games cluster into fewer than a dozen groups, and can predict behavior in held-out games with different rules and available actions.
-The results suggest that behavior across diverse settings can be approximated by a low-dimensional, portable representation, supporting the possibility of general yet parsimonious theories across the behavioral sciences.
-More broadly, this new modeling method can provide insights into the structure of many human behaviors.}
+We introduce a general, easy-to-implement AI-based modeling technique for analyzing human behavior.
+This new class of models, unlike existing modeling techniques, combines the flexibility and interpretability of natural language with a simple mathematical structure that can be fitted to data and easily analyzed.
+We assign a large language model a vector of trait intensities---a type vector---and then ask it to choose actions across settings in which we observe human choices.
+For instance, the type vector $(2,4)$ could correspond to ``You are a player characterized by the following profile: Altruism: 2 out of 5, Risk Aversion: 4 out of 5,'' after which it is asked to make choices.
+We can then vary the traits (e.g., Altruism, Fairness, Trust, $\dots$) and values (e.g., 1--5) to minimize distance to human choices.
+We illustrate the method by applying it to model 119,147 decisions made by 78,657 subjects from more than 35 countries across 10 classic economic game roles.
+We find that human behavior can be closely matched using three dimensions: Risk Aversion, Strategic Sophistication, and Trust.
+The type vectors needed to fit individuals across games cluster into fewer than a dozen groups, with substantial variation in fit across subjects.
+Furthermore, the individual type vectors can predict behavior in held-out games with different rules and available actions.
+This provides further evidence that human behavior across diverse settings can be captured by low-dimensional, interpretable models.
+The method's easy generalizability opens the possibility of building and testing parsimonious models of human behavior across any setting describable in natural language.}
 
 \needspace{6\baselineskip}\item \textbf{Self-Supervised Preference Learning for Multimodal Foundation Models}\\
 Akshata Tiwari$^\dagger$, Jillian Ross, \textbf{Benjamin S. Manning}, \& Andrew Lo\\
 Under review\\[3pt]
 {\footnotesize \textbf{Abstract: }
-Preference optimization for multimodal foundation models typically draws its signal from external judgment: human annotations, model-based scoring, or task-specific supervision. We propose a self-supervised alternative based on a simple principle: if two images depict similar underlying data, their descriptions should be similar.
-We instantiate this idea for time-series data rendered as charts---a setting that is simple, broadly important, and well-suited to clean downstream tasks.
-Two charts are neighbors if they trace similar patterns in the underlying data; we compute these neighborhoods directly from the data, generate candidate descriptions of each image and its neighbors using the model itself, and rank candidates by their agreement with the neighborhood to form preference pairs. We apply this method to direct preference optimization on two open-source foundation models, Qwen2-VL-7B and Gemma-3-4B, across three domains: financial price paths, electrocardiograms, and seismic traces. The learned signal transfers zero-shot to held-out tasks. Relative to the supervised fine-tuning baseline, the detection of large price-moves increases by 31\%, crash-risk prediction by 14\%, electrocardiogram abnormality detection by 10\%, and seismic event detection by 3.3\%. Probes show the gains reflect stronger alignment between visual inputs and textual outputs, and ablations confirm that neither generic preference optimization nor learned-feature neighborhoods produce the same gains.}
+Preference optimization for multimodal foundation models typically relies on external judgment, such as human annotations, model-based scoring, or task-specific supervision.
+We introduce structural-neighbor preference learning, a self-supervised method based on a simple principle: structurally similar inputs should receive similar descriptions.
+For each image in a data set of interest, we identify others with similar underlying patterns---for example, charts with similar trends and fluctuations---and collect the model's descriptions of the image and its neighbors.
+We rank these candidate descriptions by how much they agree with descriptions of similar images and disagree with those of dissimilar images, selecting the highest- and lowest-ranked candidates as preferred and rejected responses.
+We apply this method to DPO on Qwen2-VL-7B and Gemma-3-4B, testing across financial price paths, electrocardiograms, and seismic traces.
+We find the preference signals our approach learns transfer zero-shot to held-out tasks: relative to the supervised finetuned baseline, the detection of large price moves increases by 31\%, crash-risk prediction by 14\%, electrocardiogram abnormality detection by 10\%, and seismic event detection by 3.3\%.
+Our method also outperforms image conditioned, self-rewarding, and external-judge preference baselines, and remains effective when similarity between inputs is determined from image-derived representations rather than the underlying signal.
+We also observe improvements on other types of images, including histograms, scatter plots, and natural images.}
 
 \needspace{6\baselineskip}\item \textbf{Taste-as-Program: Scalable Preference Elicitation with AI}\\
 Gili Rusak$^\dagger$, \textbf{Benjamin S. Manning}$^\dagger$, \& John J. Horton\\[3pt]
